@@ -1,0 +1,633 @@
+,lat,lon,city,housenumber,postcode,street,name,opening_hours,amenity_type,amenity_extra,website,x,y,statistical_sector
+0,50.9385016,4.7352608,Rotselaar,12,3110,Aarschotsesteenweg,Laermans,Tu-Sa 07:00-18:00; Su 07:00-13:00,bakery,,,175761.07893400194,180975.5472246185,Vrouwenpark
+1,50.9294623,4.7238675,Wilsele,551,3012,Aarschotsesteenweg,Salt & Sweet Bakery,Tu-We 08:30-17:30; Fr-Sa 07:00-16:00,bakery,,,174965.09116404335,179966.09644764755,Putkapel-centrum
+2,50.9245745,4.7211617,Wilsele,433,3012,Aarschotsesteenweg,Au Flan Breton,,bakery,,https://www.auflanbreton.be/,174777.4561776908,179421.4595724037,Putkapel-centrum
+3,50.9105888,4.7137892,Wilsele,334,3012,Aarschotsesteenweg,AFRIT 20,,bar,cafe,,174266.3513112745,177863.22625548113,Wilsele-centrum
+4,50.9169396,4.7169324,Leuven,283,3012,Aarschotsesteenweg,Jodi - Kaas- en Vleeshandel,,butcher_shop,,,174484.09130749566,178570.73353290558,Putkapel-centrum
+5,50.9147541,4.7156822,Wilsele,237,3012,Aarschotsesteenweg,Bij Sophie,Mo-Fr 10:00-15:00,fast_food,sandwich_shop,,174397.31560670756,178327.20247252565,Putkapel-centrum
+6,50.9216718,4.7195186,Wilsele,381,3012,Aarschotsesteenweg,Döner Kebap Euro,Th-Tu 16:00-23:00,fast_food,kebab,,174663.460825519,179098.00957092736,Putkapel-centrum
+7,50.9148241,4.7157233,Wilsele,239,3012,Aarschotsesteenweg,De Vuntzak,"Mo,Tu,We,Fr,Sa 17:00-21:00",fast_food,friture,https://devuntzak.klikeneet.be/,174400.16942793495,178335.00292120036,Putkapel-centrum
+8,50.9120533,4.7141794,Wilsele,195,3012,Aarschotsesteenweg,Luc's Friet,,fast_food,friture,https://lucsfriet.be/,174293.03445913317,178026.26738051698,Wilsele-centrum
+9,50.9262986,4.7225386,Wilsele,696,3012,Aarschotsesteenweg,Smekke,"Mo-Fr 11:30-14:00,16:45-21:00",fast_food,friture,https://frituursmekke.klikeneet.be/,174873.34818207318,179613.71311137732,Putkapel-centrum
+10,50.9169484,4.7169373,Leuven,283,3012,Aarschotsesteenweg,Kaaswinkel JODI,,grocery_shop,cheese_shop,,174484.43127529498,178571.71407907922,Putkapel-centrum
+11,50.8986721,4.7075797,Wilsele,108,3012,Aarschotsesteenweg,Prik & Tik Leuven,Mo-Sa 09:00-18:00,grocery_shop,,https://www.prikentik.be/,173835.70230502298,176535.58087489847,Wilsele industriezone
+12,50.9428133,4.7423763,Rotselaar,59,3110,Aarschotsesteenweg,Brasserie Darche,"Su-Mo,Th-Fr 11:30-21:00; Sa 09:00-18:00",restaurant,brasserie,https://www.brasseriedarche.be/,176258.7911348414,181457.68801441044,Vrouwenpark
+13,50.9420832,4.7421466,Rotselaar,54,3110,Aarschotsesteenweg,Wumi,"Tu 17:30-22:00; We-Su 12:00-14:00,17:30-22:00",restaurant,chinese,http://restaurant-wumi.blogspot.com/?m=1,176243.05676552735,181376.3885737406,Wingepark
+14,50.9066471,4.7117003,Wilsele,256,3012,Aarschotsesteenweg,G'Woon Lekker,,restaurant,sandwich_shop,,174121.4695213123,177424.06369771436,Wilsele-centrum
+15,50.8993223,4.7075277,Leuven,112,3012,Aarschotsesteenweg,Eetcafé De Stordeur,Mo-Fr 11:00-23:00; Sa-Su 14:00-23:00,restaurant,,https://destordeur.be/eetcafe/,173831.7135946915,176607.89318829868,Wilsele industriezone
+16,50.9306171,4.7245626,Leuven,591,3012,Aarschotsesteenweg,Bella Vita,,restaurant,italian,,175013.34065548296,180094.7932298109,Putkapel-centrum
+17,50.9160289,4.7163105,Leuven,264,3012,Aarschotsesteenweg,Carrefour Express,"Mo-Fr 06:00-22:00; Sa,Su 09:00-18:00",supermarket,,https://magasins.carrefour.eu/nl/s/carrefour/carrefour-express-wilsele/1402,174440.83453376524,178469.22041154932,Putkapel-centrum
+18,50.8963183,4.7080114,Wilsele,92,3012,Aarschotsesteenweg,Asia & More,"Mo,Su 13:00-19:00; Tu-Sa 09:00-19:00",supermarket,,https://www.facebook.com/supermarket-asia-more-%e8%8f%af%e6%bd%a4%e8%b6%85%e5%b8%82-633748217145801/,173867.26991345646,176273.88036957942,Wilsele industriezone
+19,50.8649891,4.7154011,Heverlee,7,3001,Abdij van Park,De Wikke,,grocery_shop,natural_goods_store,https://www.wonen-en-werken.be/de-wikke,174403.44238916683,172791.20822195522,Heverlee park
+20,50.8921213,4.734141,Kessel-Lo,14,3010,Abdij Van Vlierbeek,In den Rozenkrans,"Mo,Th-Sa 11:00-24:00; Su 11:00-22:00",cafe,,http://www.in-den-rozenkrans.be,175707.80685125783,175815.7414278593,Vlierbeek
+21,50.8774988,4.7035163,Leuven,3A,3000,Alfons Smetsplein,OCTOBAR,We-Su 17:00-22:00,bar,seafood;restaurant,https://www.octobar.be/,173560.49364380693,174178.94502917957,Leuven stadspark
+22,50.8774024,4.703402,Leuven,3,3000,Alfons Smetsplein,Quetzal,Su 13:00-18:00; Mo-Fr 12:00-22:00; Sa 13:00-22:00,cafe,chocolate,https://www.quetzal.be/,173552.4977564539,174168.185106365,Leuven stadspark
+23,50.8775191,4.7039755,Leuven,1,3000,Alfons Smetsplein,Cafe Mont,,cafe,coffee_shop,,173592.80144486,174181.34930912592,Tiensestraat
+24,50.8771439,4.7039331,Leuven,11,3000,Alfons Smetsplein,Thai Snacks,"Mo-Fr 11:30-15:00,17:00-20:30; Sa 11:30-15:00; Su off",fast_food,thai,,173590.00616208807,174139.59836049285,Leuven stadspark
+25,50.8773287,4.7037933,Leuven,3/1,3000,Alfons Smetsplein,Damasco,Mo-Su 12:00-21:00,restaurant,syrian,,173580.07416557605,174160.11111785658,Leuven stadspark
+26,50.8771844,4.7035511,Leuven,4,3000,Alfons Smetsplein,Ah! Quy,,restaurant,vietnamese,,173563.10084337584,174143.9820673978,Leuven stadspark
+27,50.8774001,4.703748,Leuven,3,3000,Alfons Smetsplein,Seoul South Station,Mo-Sa 11:00-21:00; Su 11:00-16:00,restaurant,korean,,173576.85008191032,174168.0392790055,Leuven stadspark
+28,50.8771511,4.7036068,Leuven,6,3000,Alfons Smetsplein,Thai Supermarket,"Tu,We,Fr,Sa 10:30-18:00; Th 13:00-18:00; Su,Mo off",supermarket,,,173567.0377162442,174140.29547007848,Leuven stadspark
+29,50.8754337,4.7083075,Leuven,11,3000,Andreas Vesaliusstraat,Vesalius,Mo-Fr 11:00-23:00; Sa 14:00-23:00,fast_food,,,173898.74584903225,173950.75649104174,Tiensestraat
+30,50.8784432,4.7076631,Leuven,1,3000,Arendstraat,Carlisse,,pub,,http://www.carlisse.be,173851.86060703034,174285.32716338057,Blijde inkomststraat
+31,50.8308426,4.7276595,Oud-Heverlee,2,3053,Armand Verheydenstraat,Frituur Time Out,,fast_food,friture,https://www.timeout-online.be,175284.7991260895,168996.87810163666,Haasrode-kern
+32,50.8775561,4.7137574,Leuven,50,3000,Arnould Nobelstraat,Gloria,,restaurant,,https://www.gloria-resto.be/,174281.22167484034,174188.62484452222,Kleine gevangenis
+33,50.8813099,4.7014989,Leuven,2,3000,Augustijnenstraat,Den Boule,,cafe,pub,,173416.6074527664,174602.2546863146,Vital decoster
+34,50.8852118,4.7181777,Leuven,18,3010,Baron August de Becker Remyplein,Bakkerij Het Brood,"Mo,We-Fr 07:00-17:00; Sa-Su 08:00-17:00",bakery,,https://bakkersonline.be/be-nl/hetbrood-beckerremyplein/category/21995,174588.3017733027,175041.70682888106,Blauwput-centrum
+35,50.8853534,4.7182768,Leuven,20,3010,Baron August de Becker Remyplein,Friet & Burger,"Mo-Su 12:00-13:30,16:00-00:00",fast_food,friture,,174595.2008866464,175057.49139538594,Blauwput-centrum
+36,50.8848408,4.7179376,Kessel-Lo,6,3010,Baron August de Becker Remyplein,Nachtwinkel J&A,Mo-Su 17:00-02:00,grocery_shop,night_market,,174571.601030307,175000.35690004192,Blauwput-centrum
+37,50.8858381,4.7189491,Leuven,35,3010,Baron August de Becker Remyplein,Moedertje Natuur,Tu-Fr 09:30-18:30; Sa 09:30-17:30,grocery_shop,natural_goods_store,https://moedertje-natuur.be/,174642.25391978948,175111.6330952933,Blauwput-centrum
+38,50.8847665,4.7186934,Leuven,70,3010,Baron August de Becker Remyplein,Memorijs,Tu-Su 12:00-21:00,ice_cream,,https://memorijs.be/,174624.82411086216,174992.3425777126,Blauwput-centrum
+39,50.8858734,4.7190122,Kessel-Lo,37,3010,Baron August de Becker Remyplein,Pizza Hut,Mo-Su 11:30-22:00,restaurant,pizza,https://www.pizzahut.be/nl/store/delivery-kessel-lo,174646.6754804644,175115.5808753576,Blauwput-centrum
+40,50.8856467,4.7184358,Leuven,27,3010,Baron August de Becker Remyplein,Bar Baron,Wo-Su 12:00-00:00,restaurant,,,174606.23531111062,175090.1710728109,Blauwput-centrum
+41,50.8853016,4.7182484,Leuven,19,3010,Baron August de Becker Remyplein,Il Pastaio,"Mo-We 12:00-14:30; Th-Sa 12:00-14:30,18:00-21:00",restaurant,italian,http://www.ilpastaio.be/,174593.22963471955,175051.71970247477,Blauwput-centrum
+42,50.8850308,4.7180462,Leuven,12,3010,Baron August de Becker Remyplein,Tsuru Sushi,Mo-Su 17:00-21:30; We off,restaurant,sushi,https://www.tsurusushi.be/,174579.14336665563,175021.5286428053,Blauwput-centrum
+43,50.9243456,4.6921945,Leuven,1,3018,Baron Descampslaan,Int Geniep,,pub,cafe,,172740.92940354758,179386.70896823332,Wijgmaal-kern
+44,50.930837,4.6973758,Wijgmaal,112,3018,Baron Descampslaan,Eurospar,Sa 08:30-18:00;Su 08:30-12:00;Tu-Fr 08:30-18:30,supermarket,,,173102.01797412426,180110.42963415943,Wijgmaal-kern
+45,50.8823937,4.7169432,Kessel-Lo,6,3010,Benedenplein,Louis Delhaize,Mo-Sa 08:00-19:30,supermarket,,,174502.9061634397,174727.81067277957,Kessel-lo achter centrale
+46,50.8303759,4.7593923,Bierbeek,25,3360,Bergstraat,Unicorno,"Apr 01-Oct 01 We,Fr,Sa,Su 14:00-21:00",ice_cream,,,177520.60635654035,168956.2666572472,Ruisbroek
+47,50.8258108,4.7043314,Oud-Heverlee,6,3052,Bierbeekstraat,Kursaal,,pub,,,173643.89721610947,168429.445190222,Blanden-kern
+48,50.8790744,4.6916125,Leuven,5,3000,Biezenstraat,Brasserie Saint-Jacob,,restaurant,brasserie,https://www.brasseriesintjacob.be/,172721.9526340747,174350.49828983564,Sint-jacobs
+49,50.8322263,4.7213641,Oud-Heverlee,171,3053,Blandenstraat,Depot Dorst,"Tu-Fr 09:30-12:30,13:30-18:00; Sa 09:30-18:00; Su, Mo, PH off",grocery_shop,liquor_store,https://www.depotdorst.be/,174840.5636520067,169148.67056168616,De keiberg - de slagbaan
+50,50.8771901,4.7095494,Leuven,21,3000,Blijde-Inkomststraat,Madmum,,cafe,coffee_shop,https://madmumcoffee.be/madmum-erasmushuis/,173985.25476938533,174146.54048565123,Blijde inkomststraat
+51,50.8785983,4.7083646,Leuven,24,3000,Bogaardenstraat,Plant Dragon,Tu-Sa 11:00-18:00,bakery,patisserie,,173901.15136988953,174302.80659147073,Blijde inkomststraat
+52,50.8802636,4.7086819,Leuven,91,3000,Bondgenotenlaan,Kaya Bakkerij,Mo-Sa 06:00-19:00,bakery,,,173922.6323316038,174488.15790503845,Bondgenotenlaan
+53,50.8802181,4.7083796,Leuven,83,3000,Bondgenotenlaan,Doka,Mo-Fr 11:30-19:00; Sa 11:30-22:00; Su 11:30-17:00,cafe,bubble_tea_shop,,173901.38122839527,174482.99891401455,Bondgenotenlaan
+54,50.8794058,4.7047022,Leuven,20A,3000,Bondgenotenlaan,Leffe café,Tu-Sa 10:00-24:00+,cafe,,,173642.9943318009,174391.4585053455,Bondgenotenlaan
+55,50.8795467,4.7041328,Leuven,13B,3000,Bondgenotenlaan,Oh'Fresh,,fast_food,sushi,,173602.8512462356,174406.9507941492,Bondgenotenlaan
+56,50.8802517,4.7085975,Leuven,89,3000,Bondgenotenlaan,Piccolo,,fast_food,sandwich_shop,https://www.piccolo-leuven.be,173916.6987698337,174486.80689968728,Bondgenotenlaan
+57,50.8802265,4.7095824,Leuven,86,3000,Bondgenotenlaan,McDonald's,,fast_food,burger,,173986.02381123128,174484.32195803057,Bondgenotenlaan
+58,50.8792407,4.7037762,Leuven,6,3000,Bondgenotenlaan,Brown Betty,,grocery_shop,tea_store,https://www.brownbetty.be/,173577.90909857728,174372.79764880892,Bondgenotenlaan
+59,50.8807189,4.7112091,Leuven,133,3000,Bondgenotenlaan,Färm,Mo-Sa 09:00-19:30,grocery_shop,natural_goods_store,https://stores.farm.coop/nl/farm-leuven,174100.249442861,174539.62459036056,Bondgenotenlaan
+60,50.8799443,4.7079109,Leuven,60,3000,Bondgenotenlaan,De Leivese Ton,,pub,,,173868.5359258097,174452.39017254766,Bondgenotenlaan
+61,50.8804549,4.710928,Leuven,102,3000,Bondgenotenlaan,Den Angelus,,restaurant,belgian,https://www.den-angelus.be/,174080.60288299443,174510.1656948179,Bondgenotenlaan
+62,50.8810837,4.713602,Leuven,173,3000,Bondgenotenlaan,Corfou,,restaurant,greek,,174268.45877654085,174580.98605782352,Bondgenotenlaan
+63,50.879293,4.7040416,Leuven,12,3000,Bondgenotenlaan,Fatayer,Tu-Su 10:00-21:00,restaurant,syrian,https://www.fatayer.be,173596.56065708696,174378.70000850223,Bondgenotenlaan
+64,50.8805471,4.7115075,Leuven,114,3000,Bondgenotenlaan,EssenCiel,"Tu-Fr 12:00-14:00,19:00-21:00",restaurant,fine_dining,https://www.essenciel.be,174121.3374654046,174520.61054036766,Bondgenotenlaan
+65,50.8795396,4.7040706,Leuven,13,3000,Bondgenotenlaan,Neuhaus,,sweets_shop,chocolate shop,,173598.4774399937,174406.14117645193,Bondgenotenlaan
+66,50.8797251,4.7052787,Leuven,27,3000,Bondgenotenlaan,Leonidas,Mo-Sa 10:00-18:30,sweets_shop,chocolate_shop,,173683.40484846456,174427.16171863023,Bondgenotenlaan
+67,50.8805084,4.7112426,Leuven,108,3000,Bondgenotenlaan,Bittersweet,Tu-Sa 10:00-18:00,sweets_shop,chocolate_shop,https://www.bittersweet.be/,174102.7151944818,174516.21934016608,Bondgenotenlaan
+68,50.9106324,4.6737272,Herent,34,3020,Broekveldstraat,Lunch Broekveld,We 10:00-20:00; Th 10:00-16:00; Fr-Sa 10:00-20:00,restaurant,,https://www.broekveld.be/,171448.7940261285,177855.71841814928,Zitteblok
+69,50.9105095,4.6735102,Herent,34,3020,Broekveldstraat,Carrefour,Mo-Sa 08:30-19:30,supermarket,,,171433.5887746353,177841.98400023673,Zitteblok
+70,50.8966973,4.6221934,Herent,324,3020,Brusselsesteenweg,l'Ariete,,restaurant,italian,http://www.lariete.be,167829.75100877412,176291.89051983505,Bovenberg-kern
+71,50.880539,4.6955676,Leuven,106,3000,Brusselsestraat,Bakkerij Gielis,Mo-Sa 07:00-18:30; Su 07:00-19:00,bakery,,,172999.58070904313,174514.64160428196,Lei - vismarkt
+72,50.8758132,4.7258375,Leuven,106,3000,Brusselsestraat,Gielis,,bakery,,,175132.33875185883,173998.77114402596,Belle vue
+73,50.8806657,4.6926222,Leuven,115,3000,Brusselsestraat,Bar Berlin,"Mo-Th,Sa 09:00-18:00; Fr 09:00-23:00; Su 11:00-17:00",bar,coffee shop,,172792.23822626544,174527.8257113332,Sint-jacobs
+74,50.8804745,4.6958371,Leuven,98,3000,Brusselsestraat,Slagerij Ox,"We-Sa 08:00-18:00,08:30-18:00",butcher_shop,,https://www.slagerijox.be/,173018.57829040606,174507.5502621876,Lei - vismarkt
+75,50.8805696,4.6939539,Leuven,82,3000,Brusselsestraat,Leuvense Slagerij,Mo-Su 10:00-20:00,butcher_shop,,,172886.00253817902,174517.54593830183,Leuven kliniek -o.l.vrouw-kerk
+76,50.880702,4.6939497,Leuven,134,3000,Brusselsestraat,Elisa,"Mo-Fr 08:30-16:00; Sa,Su 09:00-17:00",cafe,coffee_shop;brunch,https://www.elisabyjavacoffee.be,172885.64232824332,174532.27291136794,Bruul
+77,50.8799532,4.6981918,Leuven,42A,3000,Brusselsestraat,Madmum,Mo-Sa 08:30-18:00; Su 09:00-17:00,cafe,coffee_shop,https://madmumcoffee.be/,173184.5469975311,174450.29459060635,Lei - vismarkt
+78,50.8793168,4.6999072,Leuven,5,3000,Brusselsestraat,IzyCoffee,Mo-Su 08:00-18:00,cafe,coffee_shop,https://izycoffee.be,173305.58515383347,174380.03914648946,Leuven-centrum
+79,50.87958,4.6987498,Leuven,33,3000,Brusselsestraat,Punto Kiosk,,cafe,coffee store,http://www.puntokiosk.be,173224.0012947996,174408.9543107031,Leuven-centrum
+80,50.8795837,4.6998554,Leuven,10,3000,Brusselsestraat,Chocolate Company,"Mo,We-Fr 08:00-18:00; Sa 09:00-18:00; Su 10:30-17:30",cafe,chocolate;coffee shop,https://www.chocolatecompany.nl,173301.80700261382,174409.7129818378,Leuven-centrum
+81,50.8859891,4.6699734,Heverlee,11,3020,Brusselsestraat,Broodjesland,,fast_food,sandwich_shop,,171195.9370413553,175113.28230769373,Herent brusselse steenweg
+82,50.8804259,4.6960403,Leuven,90,3000,Brusselsestraat,Yamy food,We-Mo 12:00-24:00,fast_food,syrian ,,173032.90227365633,174502.20710601844,Lei - vismarkt
+83,50.8794931,4.7001154,Leuven,4,3000,Brusselsestraat,Panos,Mo-Sa 07:00-18:00,fast_food,sandwich,https://www.panos.be/,173320.1497907508,174399.7163702324,Leuven-centrum
+84,50.8793357,4.6998251,Leuven,7,3000,Brusselsestraat,Dunkin',,fast_food,donut;coffee_shop,,173299.79787053185,174382.115776781,Leuven-centrum
+85,50.8807257,4.6936964,Leuven,138,3000,Brusselsestraat,Boerderijtje,Mo-Fr 09:00-15:00,fast_food,sandwich_shop,,172867.8049824689,174534.83111530915,Bruul
+86,50.8796615,4.6993848,Leuven,20,3000,Brusselsestraat,t Natuurtje,Mo-Fr 07:30-18:30; Sa 08:00-17:00; PH off,grocery_shop,produce_market,https://www.natuurtje.be,173268.64951248732,174418.21962693427,Lei - vismarkt
+87,50.8806445,4.694574,Leuven,124,3000,Brusselsestraat,Fewa Fish,Tu-Su 09:00-19:00,grocery_shop,fish_store,https://fewafish.be,172929.60506438237,174526.06956968643,Bruul
+88,50.8820337,4.6885058,Leuven,246,3000,Brusselsestraat,Doc's Bar,,pub,bar,,172501.89289816935,174678.74494730216,Noormannen
+89,50.8798256,4.6978836,Leuven,51,3000,Brusselsestraat,Malz,,pub,bar,https://www.malz.be/,173162.9203753807,174436.00389924273,Leuven kliniek -o.l.vrouw-kerk
+90,50.8812172,4.6905479,Leuven,202,3000,Brusselsestraat,FIKA LAB,We-Su 11:00-20:00,pub,bar,https://www.fikalab.be/,172645.99446366722,174588.53898459673,Bruul
+91,50.8807378,4.6930994,Leuven,146,3000,Brusselsestraat,The Ten Twenty,,restaurant,,,172825.78571435678,174535.9930575369,Bruul
+92,50.8798891,4.6965399,Leuven,63B,3000,Brusselsestraat,t Oud Gasthuys,,restaurant,brasserie,https://oudgasthuys.be/,173068.32557266377,174442.64851934463,Leuven kliniek -o.l.vrouw-kerk
+93,50.8806512,4.694494,Leuven,126,3000,Brusselsestraat,Diamant Leuven,Tu-Su 15:30-22:30,restaurant,,https://www.diamantleuven.be,172923.97184545881,174526.79013018776,Bruul
+94,50.8805926,4.6951484,Leuven,116,3000,Brusselsestraat,Indian Aroma,"Mo 12:00-14:30,17:30-22:30; We-Su 12:00-14:30,17:00-21:30",restaurant,indian,https://www.indianaroma.eu,172970.05348167213,174520.47407644615,Lei - vismarkt
+95,50.8803439,4.6966889,Leuven,76,3000,Brusselsestraat,Timory,,restaurant,regional,https://www.timory.be/,173078.5876089617,174493.2871748982,Lei - vismarkt
+96,50.8803236,4.6968136,Leuven,74,3000,Brusselsestraat,L'Uovo,,restaurant,italian,,173087.3733344113,174491.06783389393,Lei - vismarkt
+97,50.8800053,4.6980575,Leuven,42b,3000,Brusselsestraat,Taste of Asia,"Tu-Su 11:30-14:30,17:00-22:00; We 11:00-14:30,17:00-22:00",restaurant,asian,http://www.tasteasia.be,173175.06983866962,174456.04821868893,Lei - vismarkt
+98,50.8808257,4.6925141,Leuven,156,3000,Brusselsestraat,Capadocië,,restaurant,kebab,,172784.55300134438,174545.5909822425,Bruul
+99,50.8807843,4.692774,Leuven,154,3000,Brusselsestraat,Cappadocia Kebab,,restaurant,kebab,,172802.86334711785,174541.06556423474,Bruul
+100,50.8797911,4.6980264,Leuven,45,3000,Brusselsestraat,Het Beleg van Leuven,,restaurant,sandwich_shop,http://www.hetbelegvanleuven.be,173172.98704950002,174432.2107430743,Leuven kliniek -o.l.vrouw-kerk
+101,50.8797677,4.6981089,Leuven,45,3000,Brusselsestraat,Chop Shoy,,restaurant,asian,,173178.80460164318,174429.63351422828,Leuven kliniek -o.l.vrouw-kerk
+102,50.879993,4.6974015,Leuven,59,3000,Brusselsestraat,House of Lalibela,"Tu-Fr 19:00-22:00; Sa,Su 18:00-23:00",restaurant,ethiopian,,173128.9097589263,174454.47500046622,Leuven kliniek -o.l.vrouw-kerk
+103,50.8805816,4.6937401,Leuven,91,3000,Brusselsestraat,Indian Royal Food,"Tu-Su 12:00-14:30,17:30-21:30",restaurant,indian,https://indianroyalfood.be/,172870.95063755198,174518.81481556408,Leuven kliniek -o.l.vrouw-kerk
+104,50.8798017,4.6980834,Leuven,47,3000,Brusselsestraat,Asian Bowl,"Mo-Sa 11:00-14:00,17:00-20:30",restaurant,asian;vietnamese,https://www.asian-bowl.be,173176.9932150428,174433.4077205574,Leuven kliniek -o.l.vrouw-kerk
+105,50.8800402,4.6979707,Leuven,46,3000,Brusselsestraat,Exotic world,,super_market,,,173168.94402080242,174459.9033750631,Lei - vismarkt
+106,50.8795488,4.6988345,Leuven,31,3000,Brusselsestraat,AD Delhaize,Mo-Fr 08:30-18:30; Sa 08:30-18:00,supermarket,grocery_store,https://addelhaizeleuven-denon.be,173229.97759013664,174405.51015144773,Leuven-centrum
+107,50.8807422,4.6947339,Leuven,124,3000,Brusselsestraat,Spar,Mo-Fr 08:00-20:00; Sa 08:00-18:30,supermarket,,https://www.sparretail.be/nl/store/2562,172940.8101001651,174536.9872786384,Bruul
+108,50.8806624,4.6943737,Leuven,128,3000,Brusselsestraat,Everest House,Mo-Su 09:00-20:00,supermarket,asian_grocery_store,http://www.everesthouse.be,172915.50034559902,174527.9988163691,Bruul
+109,50.8805892,4.6952154,Leuven,114,3000,Brusselsestraat,Asian Supermarket,Mo-Su 10:00-20:00,supermarket,asian,,172974.7702298922,174520.11662923172,Lei - vismarkt
+110,50.8804991,4.6957344,Leuven,100,3000,Brusselsestraat,Afghan Market,Mo-Su 10:30-20:30; Th off,supermarket,,,173011.33875060655,174510.25488564,Lei - vismarkt
+111,50.8801027,4.6977556,Leuven,48,3000,Brusselsestraat,Circle Asian Supermarket,Mo-Su 10:00-19:00,supermarket,asian,https://www.facebook.com/people/circle-supermarket/100057536107325/,173153.77545231726,174466.78868467547,Lei - vismarkt
+112,50.8805209,4.6956544,Leuven,102,3000,Brusselsestraat,Kathmandu,Mo-Su 09:00-20:00,supermarket,asian,,173005.69809263552,174512.65509251412,Lei - vismarkt
+113,50.8795288,4.7000185,Leuven,6,3000,Brusselsestraat,Leonidas,,sweets_shop,chocolate_shop,,173313.31260469565,174403.65717087034,Leuven-centrum
+114,50.880237,4.6973208,Leuven,60,3000,Brusselsestraat,Carrefour Express,Mo-Su 08:00-20:00,supermarket,,https://winkels.carrefour.be/nl/s/carrefour/carrefour-express-leuven-brusselsestraat/893,173123.1101238791,174481.5925392378,Lei - vismarkt
+115,50.8810415,4.7000895,Leuven,6D,3000,Busleidengang,Bistro Julia & Elias,,restaurant,french,https://juliaenelias.be/,173317.55688361882,174571.95325671323,Lei - vismarkt
+116,50.862882,4.6754111,Heverlee,200,3001,Celestijnenlaan,Alma Quadrivium,Mo-Fr 10:00-14:00,restaurant,student,https://www.alma.be/en/alma-quadrivium,171589.2072653135,172544.40357496217,Campus heverlee
+117,50.8813248,4.699119,Leuven,5,3000,Craenendonck,Ekoplaza,Mo-Fr 08:30-18:30; Sa 08:30-18:00,grocery_shop,organic_shop,https://www.ekoplaza.be,173249.11874050638,174603.16280878615,Lei - vismarkt
+118,50.8812899,4.6992181,Leuven,3,3000,Craenendonck,Euronight,Mo-Su 18:00-02:00,grocery_shop,night_market,,173256.1100424811,174599.31160510704,Lei - vismarkt
+119,50.8838799,4.719629,Kessel-Lo,97,3010,Diestsesteenweg,Groot Ongelijk,,bar,,,174691.12735787546,174894.0279013766,Blauwput-centrum
+120,50.8847075,4.7317007,Kessel-Lo,300,3010,Diestsesteenweg,Taverne 't Paviljoen,,cafe,brasserie,,175540.1535812864,174990.18151319027,Kessel-lo sportstadion
+121,50.8836482,4.7310863,Kessel-Lo,272,3010,Diestsesteenweg,Den Elfkamper - clubhuis DCLA,,cafe,,,175497.4955471031,174872.13283683732,Kessel-lo sportstadion
+122,50.8847257,4.7318652,Kessel-Lo,302,3010,Diestsesteenweg,Friethuis Heuvelhof,,fast_food,friture,,175551.71920330863,174992.26279113535,Kessel-lo sportstadion
+123,50.8898717,4.7753379,Lubbeek,44,3210,Diestsesteenweg,Broodjeszaak Ingrid,,fast_food,sandwich_shop,,178607.6620000617,175580.58844964858,Linden-centrum
+124,50.8836532,4.7197681,Kessel-Lo,96,3010,Diestsesteenweg,Dilan,,fast_food,kebab,,174701.0351745738,174868.85600157548,Blauwput-centrum
+125,50.8835284,4.718384,Kessel-Lo,56,3010,Diestsesteenweg,Panda Snack,,fast_food,sandwich;chinese,,174603.70201254787,174854.5127594294,Blauwput-centrum
+126,50.8881994,4.7541618,Kessel-Lo,622,3010,Diestsesteenweg,T Fritteke,We-Su 17:00-20:30;PH 17:00-20:45,fast_food,friture,,177118.6760353475,175386.6012351513,Zavelstraat
+127,50.8842044,4.7236451,Kessel-Lo,183,3010,Diestsesteenweg,Suske Smos,Mo-Fr 07:30-14:00,fast_food,sandwich_shop,,174973.56471501256,174931.47114760242,Blauwput-centrum
+128,50.882998,4.7223852,Kessel-Lo,104,3010,Diestsesteenweg,Hal 5,Tu-Su 12:00-21:30,food_court,,,174885.54738975002,174796.84667861927,Centrale werkplaatsen
+129,50.8896643,4.7686997,Lubbeek,47,3210,Diestsesteenweg,Baablu Nachtwinkel,,grocery_shop,night_market,,178140.72208164464,175554.97629739996,Linden-centrum
+130,50.8836709,4.7199558,Herent,100,3020,Diestsesteenweg,Mezzaluna,"Mo,Tu,Th,Fr 12:00-14:30,17:30-22:00; PH,Sa,Su 17:30-22:00",restaurant,pizza,http://www.mezzalunaleuven.be/,174714.2342298965,174870.88753751852,Blauwput-centrum
+131,50.8835757,4.7188984,Kessel-Lo,66,3010,Diestsesteenweg,Hot & Fresh Pizza Service,,restaurant,pizza,https://www.pizza-service.be,174639.87540729486,174859.945341154,Blauwput-centrum
+132,50.8858345,4.7403931,Kessel-Lo,480,3010,Diestsesteenweg,Pinxtermolen,,restaurant,cafe,,176151.19186247114,175118.5807925472,Pinkstermolen
+133,50.8839175,4.7202015,Kessel-Lo,105,3010,Diestsesteenweg,Flavor of Asia,,restaurant,,,174731.39396125666,174898.4014414763,Blauwput-centrum
+134,50.887763,4.7401201,Kessel-Lo,545,3010,Diestsesteenweg,Delhaize,Mo-Sa 08:00-20:00; Fr 08:00-21:00,supermarket,,,176130.90697350472,175333.01197430585,Pinkstermolen
+135,50.8839446,4.7230375,Kessel-Lo,104,3010,Diestsesteenweg,Carrefour Express,Mo-Su 07:30-20:00; Th off,supermarket,,,174930.9467737449,174902.36626666784,Centrale werkplaatsen
+136,50.8856127,4.7373904,Kessel-Lo,471,3010,Diestsesteenweg,Bakkerij Het Brood,We-Mo 07:00-17:30,bakery,,,175940.02566366998,175092.8524677679,Pinkstermolen
+137,50.8914538,4.7895116,Linden,257,3210,Diestsesteenweg ,Spar,,supermarket,,,179603.92525371123,175762.14673212543,Linden-verspreide bewoning
+138,50.8795656,4.7022166,Leuven,2,3000,Diestsestraat,Brasserie Deauville,,cafe,brasserie,,173467.98750499528,174408.4446567865,Leuven diestse straat
+139,50.8802166,4.7043653,Leuven,38,3000,Diestsestraat,Taverne Memling,,cafe,brasserie,,173618.87614224193,174481.54496303853,Leuven diestse straat
+140,50.8810185,4.7084459,Leuven,122,3000,Diestsestraat,Café2Go,,cafe,,,173905.6389448969,174572.057287178,Leuven diestse straat
+141,50.8814776,4.7096187,Leuven,165,3000,Diestsestraat,Mok,Mo-Fr 09:00-19:00; Sa 10:00-18:00,cafe,coffee_shop,,173987.93826379115,174623.5068392679,Leuven diestse straat
+142,50.8815325,4.7106054,Leuven,176,3000,Diestsestraat,We Love Coffee,,cafe,coffee_shop,,174057.34709848018,174629.93380031642,Leuven diestse straat
+143,50.8819682,4.712171,Leuven,229,3000,Diestsestraat,Nina Specialty Bar & Shop,Mo-Fr 08:30-17:30; Sa 09:30-18:00,cafe,coffee_shop,https://specialtycompany.eu/,174167.29827632266,174678.9107413739,Leuven diestse straat
+144,50.8804635,4.7066196,Leuven,74,3000,Diestsestraat,IzyCoffee,Mo-Su 08:00-18:00,cafe,coffee_shop,https://izycoffee.be,173777.3970032618,174509.73117912468,Leuven diestse straat
+145,50.8823104,4.7136272,Leuven,265,3000,Diestsestraat,Domino's pizza,,fast_food,pizza,http://www.dominospizza.be/nl/pizza/mijn-dominos-Leuven.htm,174269.59715338753,174717.45317008626,Leuven diestse straat
+146,50.8803154,4.7055086,Leuven,60,3000,Diestsestraat,Panos,,fast_food,sandwich_shop,,173699.28579617004,174492.90055307094,Leuven diestse straat
+147,50.8813735,4.7097866,Leuven,152,3000,Diestsestraat,The Bake Off,,fast_food,,,173999.8071766478,174611.9810512634,Leuven diestse straat
+148,50.8821444,4.7136561,Leuven,250,3000,Diestsestraat,Frituur Smullende Heks,Mo-Sa 11:30-22:00,fast_food,friture,,174271.71683749353,174698.99669037107,Leuven diestse straat
+149,50.8822675,4.7134884,Leuven,263,3000,Diestsestraat,Pizza Espressa,,fast_food,pizza,,174259.85176031356,174712.63550078124,Leuven diestse straat
+150,50.881152,4.7087341,Leuven,126,3000,Diestsestraat,Cheekofte & Wraps,,fast_food,,https://www.cheekofte-wraps.be/,173925.85250272247,174587.0009195162,Leuven diestse straat
+151,50.880196,4.7042354,Leuven,36,3000,Diestsestraat,Hawaiian Poké Bowl,,fast_food,poke,,173609.74481946434,174479.21201183088,Leuven diestse straat
+152,50.8812523,4.708581,Leuven,147,3000,Diestsestraat,Jeeskesboom,,pub,cafe,,173915.02716090647,174598.10893639643,Leuven diestse straat
+153,50.8803019,4.7054343,Leuven,56,3000,Diestsestraat,Marengo,,pub,cafe,,173694.06377680454,174491.37504560687,Leuven diestse straat
+154,50.8821785,4.7137453,Leuven,254,3000,Diestsestraat,BLACK&WHITE,Mo-Fr 07:00-17:00; Sa 09:00-18:00,restaurant,,,174277.97635677602,174702.81921396498,Leuven diestse straat
+155,50.8822156,4.7133599,Leuven,259,3000,Diestsestraat,In de rapte,,restaurant,sandwich_shop,,174250.83583470594,174706.8200544985,Leuven diestse straat
+156,50.8811818,4.7088708,Leuven,128,3000,Diestsestraat,Habibi,Tu-Sa 11:30-21:30; Mo 11:30-21:00,restaurant,palestinian,,173935.45734032456,174590.36003382225,Leuven diestse straat
+157,50.8815273,4.7098793,Leuven,173,3000,Diestsestraat,Spar Express,Jan-Dec: Tu-Fr 08:00-20:00; Jan-Dec: Mo 12:30-20:00; Sa 08:00-12:30,supermarket,,,174006.25200988317,174629.11988563556,Leuven diestse straat
+158,50.8815932,4.7102501,Leuven,181,3000,Diestsestraat,Exotic Express,,supermarket,,,174032.3124969717,174636.5708257528,Leuven diestse straat
+159,50.8799174,4.7026493,Leuven,23,3000,Diestsestraat,Hearts & Flowers Candy Shop,,sweets_shop,,,173498.2628083647,174447.71623003762,Leuven diestse straat
+160,50.8802928,4.6997128,Leuven,12,3000,Dirk Boutslaan,Koffie en Staal,Tu-Fr 08:00-18:00; Sa 10:00-18:00,cafe,coffee_shop,https://www.koffieenstaal.be,173291.419102736,174488.54889622703,Lei - vismarkt
+161,50.8807857,4.6986138,Leuven,42,3000,Dirk Boutslaan,The Night Bites,,grocery_shop,night_market,,173213.83313229767,174543.03456784412,Lei - vismarkt
+162,50.8800909,4.6996574,Leuven,7,3000,Dirk Boutslaan,Nepali House,,restaurant,asian,http://www.nepalihouse.be,173287.6206332448,174466.07199548185,Lei - vismarkt
+163,50.8801263,4.6995681,Leuven,7,3000,Dirk Boutslaan 7,My Thai,"Tu 18:00-22:00; We-Su 12:00-14:30, 18:00-22:00",restaurant,thai,https://mythai.be/,173281.3185575397,174469.98185489047,Lei - vismarkt
+164,50.901254,4.6236065,Herent,13,3020,Dorpsplein,Rozenhof,,cafe,,https://www.dorpsplein13.be/nl/projecten/bar-deco,167927.41892242123,176799.12680993695,Veltem-centrum
+165,50.9513025,4.7098934,Rotselaar,1,3110,Dorpsplein,De Zijbeuk,We-Mo 11:00-04:00,pub,,,173971.5130347876,182391.0418148525,Rotselaar-centrum
+166,50.9012645,4.6236822,Herent,11,3020,Dorpsplein,Rozenhof,,pub,cafe,,167932.73991732515,176800.3131763842,Veltem-centrum
+167,50.8279486,4.7570392,Bierbeek,7,3360,Dorpsstraat,De Fritzak,,fast_food,friture,,177356.24651256847,168685.38606049586,Bierbeek kern
+168,50.8995129,4.6451266,Herent,29B,3020,Dorpsstraat,Cheff,,restaurant,,,169441.9435716419,176610.8727855105,Winksele-centrum
+169,50.8573562,4.614089,Leefdaal,252,3061,Dorpstraat,Atelier Noun,,restaurant,regional,https://www.ateliernoun.be/,167274.1016168358,171913.6248341808,Sinte-verona
+170,50.8439995,4.7590353,Bierbeek,27,3360,Dreefstraat,Wilderhof,,restaurant,,,177487.47662913628,170471.60822207667,Keiberg
+171,50.878521,4.6992252,Leuven,6,3000,Drie-Engelenberg,Frituur Bim Bam,Mo-Su 17:00-24:00,fast_food,friture,,173257.98334930406,174291.299587816,Leuven-centrum
+172,50.878491,4.699296,Leuven,4,3000,Drie-Engelenberg,Potala Momo,,restaurant,tibetan,,173262.98095851176,174287.98459347617,Leuven-centrum
+173,50.854597,4.6586112,Heverlee,,3001,E40,Starbucks,,cafe,coffee_shop,,170410.08353519466,171618.01670067105,Rotspoel-verspreide bewoning
+174,50.8542796,4.658212,Heverlee,,3001,E40,Louis Delhaize,,supermarket,,,170382.11244632682,171582.59918352123,Rotspoel-verspreide bewoning
+175,50.851951,4.6584236,Heverlee,,3001,E40,Louis Delhaize,,supermarket,,,170398.0249049605,171323.623809685,Rotspoel-verspreide bewoning
+176,50.885812,4.7178581,Kessel-Lo,35,3010,Eénmeilaan,Jeugdhuis Sojo,,bar,,,174565.49785658784,175108.36751193367,Blauwput-centrum
+177,50.8601284,4.6305672,Bertem,,3060,Egenhovenstraat,Brasserie Van Gogh,,cafe,,,168433.2322865843,172225.97812920995,Dalem
+178,50.8787531,4.7019518,Leuven,2,3000,Eikstraat,麻花小屋 Ma Hua,Mo-Sa 11:00-19:00,restaurant,chinese,,173449.75837724595,174317.97783326823,Leuven-centrum
+179,50.8856263,4.7256722,Leuven,59,3010,Elfnovemberlaan,Jeugdhuis De Grams,,bar,,,175115.4475976963,175090.32921663113,Jeugdsquare
+180,50.8886599,4.7018907,Leuven,26,3000,Engels Plein,Lidl,Mo-Fr 08:30-20:00; Sa 08:30-19:00,supermarket,,,173440.5039881083,175419.99843817204,Leuven vaart
+181,50.8682557,4.6986518,Leuven,5,3001,Erasme Ruelensvest,Irina’s Bakery,,bakery,patisserie,,173222.7127278853,173149.20318583306,Heverlee naamse poort
+182,50.8829479,4.693821,Leuven,87,3000,Fonteinstraat,Villa de Friet,"Mo-Sa 11:30-14:00, 16:30-21:00;PH 16:30-21:00;Su 16:30-21:00",fast_food,friture,https://www.villadefrit.be/,172875.48915671266,174782.06877247337,Bruul
+183,50.8634528,4.6291461,Bertem,7,3060,Fr. Dottermansstraat,The Bertem Square,"Tu-Su 11:00-14:00,17:00-22:00; Sa 17:00-22:00",fast_food,pizza,,168331.8791664901,172595.43330616318,Bertem centrum
+184,50.8664903,4.7953522,Lubbeek,65,3212,Ganzendries,Kastanjehof,,restaurant,caterer,,180030.83547351707,172987.55821649823,Pellenberg-verspreide bewoning
+185,50.9066443,4.6701845,Herent,43,3020,Gebroeders Massantstraat,Bakkerij Govaerts-Thys,"We-Fr 07:30-12:30, 13:30-18:00; Sa 08:00-15:30, Su 07:30-12:00",bakery,,https://bakkersonline.be/be-nl/govaerts-thys,171201.44290835815,177411.055446079,Herent-centrum
+186,50.8962985,4.8124596,Lubbeek,25,3210,Geestbeek,t Lanterreke,"Tu 11:00-23:00;We-Su 00:00-02:00, 11:00-00:00",pub,cafe,,181215.26547500817,176310.48552532122,St.-bernard -verspr. bewoning
+187,50.8490867,4.7231213,Leuven,454,3001,Geldenaaksebaan,Au Flan Breton,,bakery,,https://foodgarage.be/bakkerij/,174955.3846222523,171024.7994058691,Haasrode industriezone
+188,50.849239,4.7230437,Leuven,454,3001,Geldenaaksebaan,Voituur,,restaurant,,https://foodgarage.be/voituur/,174949.8389286323,171041.71505811345,Haasrode industriezone
+189,50.8635351,4.6296858,Bertem,2,3060,Gemeenteplein,t Blok,Tu-Su 10:00-18:00+,cafe,,,168369.8419434827,172604.72212778404,Bertem centrum
+190,50.8631073,4.6295685,Bertem,1,3060,Gemeenteplein,Frituur 't Dorp,"Tu-Fr 11:30-13:30,16:30-21:30; Sa 16:30-18:00+; Su 16:30-21:30",fast_food,,,168361.75159248462,172557.10433586594,Bertem centrum
+191,50.8908612,4.7296968,Kessel-Lo,10,3010,Gemeenteplein,Sar Minimarket,Mo-Su 09:00-20:00,grocery_shop,,,175395.80927929847,175674.0347328065,Heffel
+192,50.8275498,4.6909084,Vaalbeek,12,3054,Gemeentestraat,BIBOIS,,restaurant,regional,https://www.bibois.com/,172697.31968183012,168618.69264253974,Vaalbeek-kern
+193,50.8941671,4.7709408,Lubbeek,20,3210,Gemeentestraat,Spar,,supermarket,,,178295.68917281675,176056.72321900632,Linden-centrum
+194,50.9156332,4.8073053,Holsbeek,68A,3220,Gobbelsrode,Tasty Sushi Grill & Bar,,restaurant,sushi,https://www.tastysushi.be/,180839.93632837912,178459.1327949483,Gobbelsrode - verspr. bewoning
+195,50.8489323,4.7212117,Heverlee,1,3001,Grauwmeer,Bistro d'Office,,restaurant,,,174820.98952317738,171006.98274488095,Haasrode industriezone
+196,50.8793108,4.700732,Leuven,2,3000,Grote Markt,Bar Louis,,bar,restaurant,https://www.barlouis.be/,173363.63447206977,174379.6314285202,Leuven-centrum
+197,50.8792845,4.7008443,Leuven,3,3000,Grote Markt,Agora,Tu-Su 10:00-23:00,cafe,,https://www.agora-leuven.be/,173371.5508366053,174376.74121276382,Leuven-centrum
+198,50.8790355,4.7004106,Leuven,13,3000,Grote Markt,Gambrinus,,cafe,brasserie,,173341.15260962944,174348.90560114384,Leuven-centrum
+199,50.8793376,4.7006449,Leuven,1,3000,Grote Markt,Rubens,,cafe,coffee_shop,,173357.4913478269,174382.58521943353,Leuven-centrum
+200,50.8791761,4.7001779,Leuven,14,3000,Grote Markt,KFC,,fast_food,chicken,https://www.thecapital.be/,173324.7060064048,174364.4727615174,Leuven-centrum
+201,50.8792256,4.7001925,Leuven,15,3000,Grote Markt,In den Engel,,pub,,https://www.denengel.be/,173325.70887391892,174369.983768058,Leuven-centrum
+202,50.8790103,4.7006493,Leuven,11,3000,Grote Markt,Notre Dame,,restaurant,french,https://www.notredame-leuven.be/,173357.96407557116,174346.1775512118,Leuven-centrum
+203,50.8790063,4.7007318,Leuven,10,3000,Grote Markt,Het Moorinneken,Mo-Su 10:00-01:00,restaurant,belgian,https://www.moorinneken.be/,173363.77214709285,174345.75859680492,Leuven-centrum
+204,50.8790189,4.7005636,Leuven,12,3000,Grote Markt,Lyrique,,restaurant,,,173351.92850828244,174347.10721049178,Leuven-centrum
+205,50.8789082,4.701921,Leuven,5,3000,Grote Markt,Tafelrond,,restaurant,international,http://www.tafelrond.com,173447.51319127576,174335.22150440142,Leuven-centrum
+206,50.9032832,4.6216567,Herent,68,3020,Haachtstraat,Gielis,,bakery,,,167789.49195068877,177024.3885464603,Veltem-centrum
+207,50.9019598,4.6223706,Herent,30,3020,Haachtstraat,Old Time,,cafe,,,167840.21229638378,176877.34282400273,Veltem-centrum
+208,50.8840673,4.6986309,Leuven,2,3000,Halfmaartstraat,Mamaye,We-Fr 15:00-00:00; Sa-Su 12:00-23:00,restaurant,ethiopian,https://www.mamaye.be/,173213.41144121496,174908.08753155358,Lei - vismarkt
+209,50.8716077,4.7008354,Leuven,27,3000,Hendrik Consciencestraat,Kong Fu Ge,"Mo,We-Sa 17:00-21:30; Su 14:00-17:00",restaurant,chinese,,173374.75147582951,173522.76733146328,Leuven nieuw kwartier
+210,50.877001,4.6830329,Leuven,16,3000,Herbert Hooverplein,Commerce,,bar,pub,,172119.1273307764,174117.2558222199,Terbank
+211,50.8768371,4.7062485,Leuven,26,3000,Herbert Hooverplein,Alaboneur,,cafe,european;restaurant,,173753.118245535,174106.20938486513,Tiensestraat
+212,50.8779624,4.7063922,Leuven,16,3000,Herbert Hooverplein,Café Commerce,,pub,,http://www.cafecommerce.be,173762.66149665473,174231.43441802263,Ladeuze
+213,50.8608501,4.6973741,Heverlee,98,3001,Hertogstraat,Azalea,"Tu-Sa 11:30-13:30,16:30-22:00; Su 16:30-22:00",fast_food,friture,,173136.42518845212,172325.00327564497,Heverlee station
+214,50.8771044,4.7015119,Leuven,5,3000,Hogeschoolplein,De Werf,,restaurant,international,https://www.dewerf-leuven.be/,173419.6230683516,174134.43638417684,Leuven stadspark
+215,50.8778365,4.7019186,Leuven,15,3000,Hogeschoolplein,Tijd à Tijd,,restaurant,,http://www.salonsgeorges.be/?tijd,173447.88028338898,174216.00420847628,Leuven-centrum
+216,50.9001654,4.7348659,Kessel-Lo,200,3010,Holsbeeksesteenweg,Laermans Danny,Tu-Fr 07:00-18:00; Sa 07:00-16:00; Su 07:00-13:00,bakery,,,175754.38834163605,176710.82625496387,Beneden kessel
+217,50.8979432,4.732049,Kessel-Lo,135,3010,Holsbeeksesteenweg,Bar blom,,cafe,brunch,https://www.bar-blom.com/,175557.44561498065,176462.65133923478,Beneden kessel
+218,50.8986151,4.7330285,Kessel-Lo,142,3010,Holsbeeksesteenweg,Frithoek,We-Th 17:00-22:00; Fr 17:00-22:30; Sa 17:00-22:00; Su 17:00-21:30,fast_food,friture,https://defrithoek.be,175625.98431512664,176537.7323916359,Beneden kessel
+219,50.8484386,4.7332695,Oud-Heverlee,17a,3001,Interleuvenlaan,Colruyt Collishop afhaalpunt,,supermarket,,,175670.38977830645,170956.1711004395,Haasrode industriezone
+220,50.8798063,4.7073727,Leuven,20,3000,Jan Stasstraat,Koffiehuis Java,,cafe,,,173830.7300993104,174436.8657605229,Bondgenotenlaan
+221,50.8797745,4.7073288,Leuven,20,3000,Jan Stasstraat,Leonidas,Mo-Fr 08:30-18:00; Sa 09:00-18:00,sweets_shop,chocolate_shop,,173827.65677771132,174433.31419327762,Ladeuze
+222,50.8819787,4.707424,Leuven,35,3000,Jan-Pieter Minckelersstraat,t Fritwinkeltje,,fast_food,,,173833.2359457093,174678.541402773,Sint-maartensdal
+223,50.8813733,4.7081614,Leuven,9,3000,Jan-Pieter Minckelersstraat,Nachtwinkel Friend's Shop,,grocery_shop,night_market,,173885.436870793,174611.43372691888,Sint-maartensdal
+224,50.8831451,4.7064564,Leuven,84,3000,Jan-Pieter Minckelersstraat,Zaytouna Market Halal,,grocery_shop,,,173764.552485861,174807.9817964211,Van monsstraat
+225,50.88191,4.7078415,Leuven,26,3000,Jan-Pieter Minckelersstraat,St-Maarten,,pub,,,173862.65131960975,174671.03352453467,Van monsstraat
+226,50.8834181,4.706269,Leuven,98,3000,Jan-Pieter Minckelersstraat,The New Pocket,,pub,,,173751.22674007044,174838.2904315153,Van monsstraat
+227,50.8816156,4.7078764,Leuven,23,3000,Jan-Pieter Minckelersstraat,Ganesha,,restaurant,,,173865.25718205847,174638.29551445972,Sint-maartensdal
+228,50.8824494,4.7072376,Leuven,48,3000,Jan-Pieter Minckelersstraat,Alfalfa,"Mo-Sa 11:30-14:00,17:30-21:00",restaurant,international;falafel,https://www.alfalfafalafel.be/,173819.87939677457,174730.84245593287,Van monsstraat
+229,50.8835466,4.7073119,Leuven,76,3000,Jan-Pieter Minckelersstraat,ALDI,Mo-Sa 08:30-19:00,supermarket,,https://www.yellowmap.de/partners/AldiNord/Html/Info.aspx?Ebinr=XCCV2567E5MRB01&SessionGuid=cf7ed941-a2c9-4017-b70d-d31b40e00383&ClearGroups=MapNav%2cGeoMap&ClearParas=Print&DetailInfoView=2,173824.55038469055,174852.91963475198,Van monsstraat
+230,50.8630361,4.6597774,Heverlee,171,3000,Jansbergsesteenweg,Couvert Couvert,"PH,Mo-Su 12:00-16:00,18:30-23:30",restaurant,french,,170488.51180998998,172557.106101227,Egenhoven
+231,50.8846062,4.711053,Leuven,127,3000,Jean-Baptiste Van Monsstraat,Bakkerij Vleugels,,bakery,,https://www.bakkerijvleugels.be/,174087.26666469502,174971.999660871,Van monsstraat
+232,50.8783881,4.6978874,Leuven,2,3000,Joris Helleputteplein,Wereldcafé.COOP,Tu-Sa 11:00-23:00,cafe,diner,https://www.wereldcafe.be/,173163.89806739788,174276.09667153098,Leuven-centrum
+233,50.8781292,4.6976422,Leuven,1,3000,Joris Helleputteplein,Swartehond,Mo-Sa 06:00-18:00; Su 12:00-16:00,cafe,coffee_shop,https://www.swartehond.com/,173146.76929466438,174247.21985710226,Damiaanplein
+234,50.8633893,4.6912963,Herent,6a,3001,Jules Vandenbemptlaan,Voltaire,Tu-Sa 12:00-23:00,restaurant,,https://www.voltaire.be/,172707.2946045402,172605.58410914522,Heverlee - dreef
+235,50.8608446,4.6855803,Heverlee,3,3001,Kantineplein,De Oude Kantien,,restaurant,,,172306.09770679648,172320.77506504487,Heverlee - dreef
+236,50.8954176,4.6986104,Leuven,54,3012,Kapellelaan,Sushi-Masago,Tu-Su 16:00-21:00,restaurant,japanese;thai;chinese,,173206.34840535032,176170.6995387785,Wilsele oud centrum
+237,50.8741781,4.6916391,Leuven,205,3000,Kapucijnenvoer,Kaputop Friet,"Mo,Tu,Th 11:30-14:00,16:00-23:00; We 11:30-14:00,16:30-23:00; Fr 11:30-14:00,16:00-22:00; Su 17:00-23:00",fast_food,fries;fast_food,https://www.kaputop.be,172726.19806640732,173805.8391027879,Redingen
+238,50.8804637,4.6937123,Leuven,3,3000,Kapucijnenvoer,Kirkuk,Tu-Su 10:00-20:00,grocery_shop,,,172869.05174646873,174505.69095575158,Leuven kliniek -o.l.vrouw-kerk
+239,50.8747016,4.6913704,Leuven,187,3000,Kapucijnenvoer,Nachtwinkel Naznin,Mo-Su 18:00-02:00,grocery_shop,night_market,,172707.0323420267,173863.99114426225,Redingen
+240,50.8747801,4.6913389,Leuven,183,3000,Kapucijnenvoer,In den Vetten Os,Mo-Sa 11:00-23:00; Fr 10:30-23:00; Su 12:00-23:00,pub,,,172704.77725482473,173872.71387421247,Redingen
+241,50.8803363,4.6937293,Leuven,5,3000,Kapucijnenvoer,De Cuythoek,,pub,,,172870.31026832623,174491.52413661592,Leuven kliniek -o.l.vrouw-kerk
+242,50.8767275,4.690563,Leuven,48,3000,Kapucijnenvoer,Botaniq,,restaurant,international,https://www.botaniq.be,172649.22618594696,174089.10631531756,Bankstraat
+243,50.8745754,4.6914304,Leuven,193,3000,Kapucijnenvoer,Ti Amo,"Mo-Fr 17:00-23:00; Sa,Su 16:00-23:00",restaurant,pizza,https://pizza-tiamo.be,172711.31646811054,173849.97097681835,Redingen
+244,50.8756775,4.6905746,Leuven,76,3000,Kapucijnenvoer,Xiang Xiang,"Tu-Su 12:00-14:30,17:00-22:00",restaurant,chinese,,172650.54989421964,173972.30723925028,Bankstraat
+245,50.8746266,4.6914039,Leuven,191,3000,Kapucijnenvoer,TES Winkel,Mo-Su 10:00-20:00,supermarket,,,172709.42650792186,173855.65837030858,Redingen
+246,50.823428,4.6526281,Leuven,50,3001,Kasteelpark Arenberg,In De Molen,,pub,,,170002.07969291997,168149.15619639307,Linderonde - oppem
+247,50.8626754,4.6864853,Heverlee,10,3001,Kasteelpark Arenberg,Alma ESAT2,Mo-Fr 10:00-14:00,restaurant,student,https://www.alma.be/en/esat2,172368.93999390313,172524.70638619084,Campus heverlee
+248,50.861153,4.6839371,Leuven,41,3001,Kasteelpark Arenberg,Theokot,,restaurant,,https://www.vtk.be/nl/page/theokot/,172190.26394523086,172354.58813401684,Campus heverlee
+249,50.8625035,4.6291756,Bertem,4,3060,Kerkstraat,Sportwereld,,cafe,,,168334.3272971966,172489.83996897656,Bertem centrum
+250,50.8626389,4.6291219,Bertem,2,3060,Kerkstraat,Bertem-Brug,"We-Sa 11:30-14:00,17:00-22:00; Su,PH 11:30-21:00",restaurant,,https://www.bertembrug.be/,168330.49377433019,172504.88864344172,Bertem centrum
+251,50.8385552,4.6432229,Oud-Heverlee,17,3050,Kerselarenlaan,The Shelter,"May,Jun,Sep: Sa-Su,PH 11:00-19:00; Jul,Aug: Tu-Su 11:00-19:00; Oct Sa-Su 12:00-18:00",cafe,,https://www.theshelter.be/,169333.15224982513,169829.40037148912,Korbeek-dijle-kern
+252,50.8913863,4.7064132,Wilsele,7/3,3012,Kolonel Begaultlaan,reBoot,,bar,,,173757.33524863335,175724.7259670375,Zwaaikom
+253,50.8905343,4.7063917,Wilsele,7,3012,Kolonel Begaultlaan,Coupe Matadi,We-Su 13:00-21:00,ice_cream,sundae,https://www.coupematadi.be,173756.25437655125,175629.94177586772,Zwaaikom
+254,50.8921291,4.7058932,Wilsele,19,3012,Kolonel Begaultlaan,Casa Mexicana Vera Cruz,,restaurant,mexican,,173720.3730898188,175807.18919647485,Zwaaikom
+255,50.889709,4.7063613,Wilsele,5,3012,Kolonel Begaultlaan,La Coquerie,,restaurant,,http://www.lacoquerie.be,173754.53370789322,175538.12488799542,Zwaaikom
+256,50.8895023,4.7057959,Wilsele,3,3012,Kolonel Begaultlaan,Malinka,Mo-Sa 09:00-20:00; Su 10:00-20:00,supermarket,polish,,173714.85637420605,175514.9503014926,Zwaaikom
+257,50.8892161,4.7058796,Wilsele,3,3012,Kolonel Begaultlaan,Al Taj Supermarket,09:00-20:00,supermarket,,https://www.facebook.com/ALTAJ-Supermarket-294029654635878,173720.89042486885,175483.13994100224,Zwaaikom
+258,50.9273035,4.6370213,Leuven,3,3000,Kortestraat,Frietland,,fast_food,friture,,168860.56912881852,179700.26180272363,Winksele delle
+259,50.878776,4.700251,Leuven,11,3000,Kortestraat,Istanbul,,fast_food,kebab,,173330.04963063373,174319.98840231914,Leuven-centrum
+260,50.8788442,4.70027,Leuven,7/9,3000,Kortestraat,McDonald's,,fast_food,burger,,173331.35285382875,174327.58099404257,Leuven-centrum
+261,50.8789235,4.700302,Leuven,5,3000,Kortestraat,Pizza Sole Mio,,fast_food,pizza,http://www.sole-mio-leuven.be,173333.56544758458,174336.41245044116,Leuven-centrum
+262,50.879119,4.7001591,Leuven,4,3000,Kortestraat,Frituur Belgium,,fast_food,friture,,173323.41133629569,174358.11500458047,Leuven-centrum
+263,50.8789777,4.7003237,Leuven,3,3000,Kortestraat,Frietland,,fast_food,friture,,173335.06564700895,174342.44852496032,Leuven-centrum
+264,50.8788611,4.7000712,Leuven,14,3000,Kortestraat,Ali Baba,Mo-Sa 12:00-06:00; Su 12:00-00:00,fast_food,kebab,,173317.35350961197,174329.39838665072,Leuven-centrum
+265,50.87896,4.700107,Leuven,6,3000,Kortestraat,Pinguino,Mo-Su 11:00-23:00,ice_cream,,https://pinguino.be,173319.8238085991,174340.41134909913,Leuven-centrum
+266,50.9206769,4.7816927,Holsbeek,139,3220,Kortrijksebaan ,Natuurwinkel Marie,,grocery_shop,,,179035.69749943176,179009.85687750578,Holsbeek-verspreide bewoning
+267,50.9024649,4.6676345,Herent,1,3020,Kouterstraat,BAR Swings,,cafe,brasserie,https://www.bar-swings.be/,171023.96317785175,176945.4054355137,Herent spoorweg-zuid
+268,50.9012329,4.6681462,Herent,29,3020,Kouterstraat,Louis Delhaize,Mo-Fr 08:00-19:00; Sa-Su 08:00-18:00,supermarket,,https://winkels.louisdelhaize.be/nl/herent,171060.5108622603,176808.50116453413,Herent spoorweg-zuid
+269,50.8777751,4.6999015,Leuven,8,3000,Krakenstraat,De Nachtuil,"Tu-Th 18:00-02:00, Fr-Su 18:00-03:00",restaurant,regional,https://nachtuil.weebly.com/,173305.9504111705,174208.53771225363,Leuven-centrum
+270,50.8779634,4.7013482,Leuven,1,3000,Lakenweversstraat,Taj Mahal,,restaurant,indian,https://www.tajleuven.be/,173407.67305169345,174229.94030514825,Leuven-centrum
+271,50.8610053,4.6984621,Leuven,12,3001,Leeuwerikenstraat,Evin’s winkel,,grocery_shop,,,173212.94783913658,172342.6079958491,Heverlee station
+272,50.8816344,4.6966542,Leuven,25,3000,Lei,El Sombrero,,restaurant,mexican,https://www.elsombrero.be/,173075.51035711388,174636.83249842655,Lei - vismarkt
+273,50.8805648,4.6961251,Leuven,3,3000,Lei,Tian Tan,,restaurant,chinese,https://www.tiantan.be/,173038.80177651608,174517.68480024952,Lei - vismarkt
+274,50.8790095,4.7040581,Leuven,26,3000,Leopold Vanderkelenstraat,Museumcafé,,cafe,,https://www.mleuven.be/,173597.86456299154,174347.16855338681,Ladeuze
+275,50.8792308,4.7045176,Leuven,21,3000,Leopold Vanderkelenstraat,Den Artiest,,cafe,bar,,173630.09111005176,174371.93252024706,Ladeuze
+276,50.8791029,4.7047627,Leuven,27,3000,Leopold Vanderkelenstraat,Cafe Anna,"Mo-Sa 08:30-17:30; PH,Su 10:30-16:30",cafe,,http://www.annaleuven.be/,173647.40486760467,174357.78303316608,Ladeuze
+277,50.8787472,4.7053151,Leuven,41,3000,Leopold Vanderkelenstraat,De Theewinkel,,grocery_shop,tea_store,,173686.46058070954,174318.39117837697,Ladeuze
+278,50.8787128,4.7053793,Leuven,43,3000,Leopold Vanderkelenstraat,Think Chocolate,,grocery_shop,chocolate_shop,https://www.thinkchocolate.be/,173690.99617220007,174314.58502507862,Ladeuze
+279,50.8796476,4.7039075,Leuven,15,3000,Leopold Vanderkelenstraat,Pizza & Pasta,,restaurant,pizza;pasta,,173586.9447945872,174418.1032361025,Bondgenotenlaan
+280,50.8798622,4.7036439,Leuven,3,3000,Leopold Vanderkelenstraat,Oh'Fresh,Mo-Sa 10:00-18:30,restaurant,sushi,https://www.ohfresh.be,173568.28586644656,174441.89160361327,Bondgenotenlaan
+281,50.8790577,4.7043966,Leuven,26,3000,Leopold Vanderkelenstraat,Damasco,,restaurant,syrian,,173621.66278708965,174352.63819642272,Ladeuze
+282,50.8790911,4.7043537,Leuven,24,3000,Leopold Vanderkelenstraat,Raets-Putseys,,sweets_shop,chocolate_shop,http://users.skynet.be/chocolaterie-raets-putseys,173618.6268037847,174356.339958217,Ladeuze
+283,50.9085222,4.6741556,Leuven,36,3010,Leuvensestraat,Chen's meeneem,"Mo 12:00-14:00, 17:00-21:30; We-Sa 12:00-14:00, 17:00-21:30; Su 12:00-21:30",restaurant,chinese,,171479.89078533146,177621.10012486018,Herent-centrum
+284,50.8844303,4.717897,Leuven,36,3010,Leuvensestraat,Chen's,,restaurant,chinese,,174568.95922700336,174954.679141704,Blauwput-centrum
+285,50.8845369,4.7181104,Leuven,44,3010,Leuvensestraat,Nobu Sushi,"Tu-Sa 12:00-14:30,17:30-21:30",restaurant,sushi;japanese,https://www.nobusushi.be,174583.91996619277,174966.60816503875,Blauwput-centrum
+286,50.882623,4.7175111,Kessel-Lo,4,3010,Locomotievenstraat,Content Leuven,Tu-Fr 10:00-19:00; Sa 10:00-17:00; Su 10:00-14:00,grocery_shop,natural_goods_store,https://www.contentleuven.be,174542.7501363022,174753.50606252812,Kessel-lo achter centrale
+287,50.86298,4.695012,Herent,11,3001,Lodewijk Engelbertus Van Arenbergplein,Wok Dynasty,"Mo,We-Th,Su 12:00-14:30,17:30-22:30; Fr-Sa 12:00-14:30,17:30-23:00",restaurant,asian;wok,https://www.wokdynasty.be/heverlee,172969.08086855512,172561.19872466289,Heverlee-centrum
+288,50.9010242,4.621943,Herent,z/n,3020,Lodewijk van Veltemstraat ,t Veltem Frituur,,fast_food,friture,,167810.4896245162,176773.16206752975,Veltem-centrum
+289,50.8836052,4.70248,Leuven,2,3000,Lombaardenstraat,Colruyt,"Mo-Th,Sa 08:30-20:00; Fr 08:30-21:00",supermarket,,https://www.colruyt.be/nl/winkelzoeker/colruyt-leuven,173484.5007557507,174857.8959795246,Kardinaalstraat
+290,50.8739258,4.7847477,Lubbeek,74,3212,Lostraat,Slagerij Feytens,,butcher_shop,,,179279.68993296803,173810.43866515718,Pellenberg-kern
+291,50.8809836,4.708945,Leuven,5,3000,Louis Melsensstraat,Kabab Sahtain,Mo-Su 11:00-22:30,fast_food,kebab;syrian;italian_pizza,https://sahtain.be,173940.7802613385,174568.33611014858,Lepelstraat
+292,50.8805744,4.7094935,Leuven,25,3000,Louis Melsensstraat,Multi Croc,,restaurant,sandwich;dessert,,173979.5895417936,174522.99379231595,Bondgenotenlaan
+293,50.8807533,4.708923,Leuven,12,3000,Louis Melsensstraat,Whisk Eight,Mo-Fr 11:30-18:00; Sa 12:30-18:00,sweets_shop,,https://www.whiskeight.com,173939.34963795642,174542.71028858516,Lepelstraat
+294,50.8796184,4.7018652,Leuven,11,3000,Margarethaplein,De Fiere Margriet,14:00-2:00,cafe,,http://defieremargriet.eu/,173443.23102253088,174414.20693485625,Leuven diestse straat
+295,50.8796088,4.7019086,Leuven,11A,3000,Margarethaplein,Pinocchio,,ice_cream,,,173446.29013289945,174413.1527556898,Leuven diestse straat
+296,50.880121,4.7007961,Leuven,3,3000,Margarethaplein,Leuven Central,Mo-Th 09:30-24:00; Fr 09:30-26:30; Sa 10:30-26:30; Su 13:00-22:00,pub,cafe,,173367.74174145111,174469.77880438883,Leuven-centrum
+297,50.8800298,4.7006528,Leuven,1,3000,Margarethaplein,Würst,Mo-Su 12:00-20:00,restaurant,hot_dog,https://www.wurstdogs.be/,173357.70243777768,174459.58847842645,Leuven-centrum
+298,50.8798485,4.7015771,Leuven,6,3000,Margarethaplein,Susuru Ramen,"Tu-Sa 12:00-14:30,18:00-21:30",restaurant,japanese,https://susuruleuven.be/,173422.84079402138,174439.71230083145,Leuven-centrum
+299,50.880428,4.7144727,Leuven,125,3000,Maria-Theresiastraat,Sac à Pain,Mo-Fr 07:00-14:00,fast_food,sandwich_shop,https://www.sacapain.be/,174330.0732902601,174508.33110111114,Maria-theresiastraat
+300,50.8781642,4.7115092,Leuven,47,3000,Maria-Theresiastraat,Mediteranee,,supermarket,,,174122.68311616458,174255.5359811606,Kleine gevangenis
+301,50.8821615,4.7175168,Leuven,17,3000,Martelarenlaan,Frituur Station,Mo-Su 16:30-22:30,fast_food,friture,https://www.frituurstationleuven.be,174543.39285027634,174702.170409685,Kessel-lo achter centrale
+302,50.8761004,4.7201096,Leuven,221,3000,Martelarenlaan,Ice Monki,"Mo-Fr 12:00-21:00; Sa-Su,PH 13:00-21:00",ice_cream,,,174729.0496862897,174028.79256181605,Belle vue
+303,50.8813999,4.7175901,Leuven,36,3010,Martelarenlaan,Bar & Grill,,restaurant,,,174548.94989700493,174617.47385578137,Kessel-lo achter centrale
+304,50.8954387,4.768191,Lubbeek,4,3210,Martelarenplaats,De Frietverslinder,,fast_food,friture,,178101.4684077798,176197.1307544429,Linden-centrum
+305,50.8813292,4.7138802,Leuven,10,3000,Martelarenplein,Kosmopol,,cafe,brasserie,https://kosmopol-leuven.be/,174287.90951261335,174608.3867634423,Bondgenotenlaan
+306,50.8809464,4.7140569,Leuven,6,3000,Martelarenplein,La Royale,,cafe,brasserie;bar;restaurant,,174300.54286599634,174565.86179033667,Bondgenotenlaan
+307,50.8816917,4.7148191,Leuven,17,3000,Martelarenplein,Panos,,fast_food,sandwich,,174353.79457698026,174649.01960786805,Leuven station
+308,50.8815547,4.714113,Leuven,14,3000,Martelarenplein,A La Sirène,,pub,cafe,,174304.1754865163,174633.5478412388,Bondgenotenlaan
+309,50.8815736,4.7142741,Leuven,15,3000,Martelarenplein,Café De La Gare,Mo-Su 09:00-22:00,pub,brasserie,,174315.50274759278,174635.70313424245,Bondgenotenlaan
+310,50.8806149,4.7143818,Leuven,2,3000,Martelarenplein,Café St Jean,,pub,,,174323.57928093045,174529.0921248626,Bondgenotenlaan
+311,50.8816735,4.7147016,Leuven,16,3000,Martelarenplein,Bavet,,restaurant,,,174345.53524447003,174646.9564223606,Leuven station
+312,50.8814074,4.7138537,Leuven,11,3000,Martelarenplein,Van De Weyer,,restaurant,brasserie;international,https://www.restovandeweyer.be/,174286.004114525,174617.07709378563,Bondgenotenlaan
+313,50.8812476,4.7139147,Leuven,8,3000,Martelarenplein,La Vignette,,restaurant,french,https://www.lavignetteleuven.be/,174290.3796647984,174599.32083807234,Bondgenotenlaan
+314,50.8811435,4.7139582,Leuven,7,3000,Martelarenplein,Grand Café Industrie,,restaurant,brasserie,https://www.grandcafe-industrie.be/,174293.49484509203,174587.7549509853,Bondgenotenlaan
+315,50.8815382,4.7139719,Leuven,13,3000,Martelarenplein,Café Sport,,restaurant,burger;regional,,174294.25442979598,174631.66610646434,Bondgenotenlaan
+316,50.880734,4.7141428,Leuven,5,3000,Martelarenplein,De Klimop,,restaurant,european restaurant,https://www.deklimopleuven.be/,174306.6980897209,174542.2624612702,Bondgenotenlaan
+317,50.880204,4.7001633,Leuven,8,3000,Mathieu de Layensplein,moochi,Mo-Sa 11:00-22:00; Su 12:00-22:00,ice_cream,,https://www.moochie.be/,173323.16712242234,174478.81242032722,Lei - vismarkt
+318,50.8797902,4.699967,Leuven,5,3000,Mathieu de Layensplein,Brasserie Foyer,,pub,brasserie,http://www.brasseriefoyer.be,173309.55827277072,174432.7192732608,Leuven-centrum
+319,50.8801756,4.7004021,Leuven,9,3000,Mathieu de Layensplein,De Blauwe Schuit,Mo-Su 11:00-24:00,pub,,https://www.deblauweschuit.be/,173339.98679207766,174475.72837299947,Leuven-centrum
+320,50.879746,4.7000808,Leuven,3,3000,Mathieu de Layensplein,Las Lanzas,,restaurant,mediterranean;spanish,http://www.laslanzas.be,173317.58899340802,174427.83823967073,Leuven-centrum
+321,50.8797111,4.7001653,Leuven,2,3000,Mathieu de Layensplein,Ciao Italia,,restaurant,italian,http://www.resto-ciaoitalia.be,173323.55309507754,174423.9825339634,Leuven-centrum
+322,50.8221982,4.6547475,Oud-Heverlee,2,3050,Maurits Noëstraat,Spaans Dak,,restaurant,,,170151.94110472337,168012.92867580056,Oud-heverlee-verspr. bewoning
+323,50.823439,4.6577265,Oud-Heverlee,15,3050,Maurits Noëstraat,Zoete Bron Brasserie,Tu-Su 11:00-21:00,restaurant,brasserie,https://www.zoetebron.be/,170361.3089714315,168151.7687954381,Oud-heverlee-verspr. bewoning
+324,50.9024009,4.6758569,Herent,328,3020,Mechelsesteenweg,Tartinne,"Mo-We,Fr 07:00-13:15,14:45-18:00; Sa 07:00-15:00; PH,Su 07:00-13:00",bakery,,https://www.tartinne.be/,171602.37013767337,176940.65132570453,Herent station
+325,50.8898846,4.6948733,Wilsele,5,3012,Mechelsesteenweg,Falouche,,bakery,,,172946.1442919954,175554.0388467079,Wilsele mechelse poort
+326,50.9145636,4.6576944,Herent,675,3020,Mechelsesteenweg,Buurtslagers vleeshal,,butcher_shop,,,170319.51001851427,178288.51314919628,Hogebeek
+327,50.8991298,4.6808741,Herent,210,3020,Mechelsesteenweg,Frituur De Lente,"Mo-Sa 12:00-14:00, 17:00-22:30; Su 17:00-22:30",fast_food,friture,https://www.facebook.com/Frituur-De-Lente-2183132441943299/,171956.8216554419,176578.24419785198,Bergen
+328,50.8933781,4.6905936,Wilsele,97,3012,Mechelsesteenweg,De Broodjesbar,,fast_food,sandwich_shop,http://www.debroodjesbar.be/,172643.3347296053,175941.3429966541,Kareelveld
+329,50.91814,4.6509709,Herent,736,3020,Mechelsesteenweg,t Patatje,,fast_food,,,169845.17341763174,178684.5367631819,Kempen
+330,50.8896167,4.6949847,Wilsele,1,3012,Mechelsesteenweg,MBS Dagwinkel,,grocery_shop,night_market,,172954.11364880996,175524.27188571263,Wilsele mechelse poort
+331,50.9032443,4.6745351,Herent,360,3020,Mechelsesteenweg,Cafe Tunnel 2.0,,pub,,,171509.0051746949,177034.08788757864,Herent station
+332,50.9032844,4.6748978,Herent,361,3020,Mechelsesteenweg,Hannah vzw,,pub,,https://www.hannah2.be,171534.4992428983,177038.65403177124,Herent station
+333,50.8919658,4.6927598,Wilsele,61,3012,Mechelsesteenweg,Topinamboer,,restaurant,fine_dining,http://www.restauranttopinamboer.be,172796.42516713776,175784.90136355534,Roeselberg
+334,50.9120555,4.6616252,Herent,635,3020,Mechelsesteenweg,Okay,Mo-Sa 08:30-19:30,supermarket,,,170597.041036222,178010.5926383352,Zitteblok
+335,50.8819391,4.6989501,Leuven,75,3000,Mechelsestraat,De Broodenier,"Mo,We,Th 07:30-16:00; Sa 09:00-14:00; Su 07:30-12:00",bakery,,https://www.broodenier.be/,173236.9281973042,174671.44499946665,Lei - vismarkt
+336,50.8806784,4.6999241,Leuven,30,3000,Mechelsestraat,Les Tartes de Françoise,,bakery,patisserie,https://www.tartes.be/,173306.09759443754,174531.50973325223,Lei - vismarkt
+337,50.8809508,4.6986251,Leuven,10,3000,Mechelsestraat,Bar Jérome,We-Sa 11:00-01:00,bar,,,173214.54660108697,174561.40394548792,Lei - vismarkt
+338,50.8818088,4.6990593,Leuven,67,3000,Mechelsestraat,Sinatra,Tu-Th 17:00-24:00; Fr-Su 16:00-02:00,bar,,,173244.67746474606,174656.98458253965,Lei - vismarkt
+339,50.8819905,4.699126,Leuven,56,3000,Mechelsestraat,De Maekerij,Tu-Th 09:00-21:00; Fr-Sa 09:00-17:00,cafe,lunch_restaurant,,173249.28119694997,174677.21794585977,Lei - vismarkt
+340,50.8807864,4.6997388,Leuven,36,3000,Mechelsestraat,Elsen Kaasambacht,Tu-Fr 09:30-18:00; Sa 09:00-18:00,grocery_shop,cheese shop,https://www.elsenkaasambacht.be/,173293.00359146242,174543.4654636113,Lei - vismarkt
+341,50.8806004,4.6997623,Leuven,23,3000,Mechelsestraat,De Walvis,Tu-Fr 09:30-18:00; Sa 10:00-17:45,grocery_shop,fish_shop,https://www.walvis.be/,173294.74980620676,174522.78208517004,Lei - vismarkt
+342,50.8807518,4.6997982,Leuven,34,3000,Mechelsestraat,Gigi by Zoff,,grocery_shop,italian,,173297.20100469104,174539.63520935643,Lei - vismarkt
+343,50.8814663,4.6992644,Leuven,51,3000,Mechelsestraat,De Blauwe Kater,Mo-Sa 11:00-26:00; Su 12:00-26:00,pub,bar,http://www.blauwekater.be,173259.28080327052,174618.94899638928,Lei - vismarkt
+344,50.8806309,4.6997026,Leuven,25,3000,Mechelsestraat,Zoff,,restaurant,italian,https://www.zoff.be/,173290.5333060259,174526.15616017487,Lei - vismarkt
+345,50.8810888,4.6993952,Leuven,45,3000,Mechelsestraat,De Tartine,,restaurant,lunch,,173268.67297031864,174576.9966972703,Lei - vismarkt
+346,50.88104,4.699367,Leuven,43,3000,Mechelsestraat,Cuore Italiano,"Mo,We-Sa 12:00-15:00,18:00-23:00",restaurant,italian,https://www.cuoreitaliano.be/,173266.71265506707,174571.55929697957,Lei - vismarkt
+347,50.8830579,4.6982185,Leuven,111,3000,Mechelsestraat,Trattoria Oratoriënhof,,restaurant,italian,,173184.89045236591,174795.67198161036,Lei - vismarkt
+348,50.8851664,4.6975465,Leuven,177,3000,Mechelsestraat,Brasserie Absolut,,restaurant,french;brasserie,https://www.brasserie-absolut.be/,173136.56064485104,175030.01316672657,Leuven mechelse straat
+349,50.884454,4.6981572,Leuven,140,3000,Mechelsestraat,Bodhi,Tu-Sa 11:00-18:00,restaurant,asian,https://www.bodhiplantbased.be,173179.88635662146,174950.95606254507,Leuven mechelse straat
+350,50.8809747,4.6995078,Leuven,46,3000,Mechelsestraat,Hokkaido Sushi,"Tu-Su 11:30-14:00,17:00-22:00",restaurant,sushi,https://hokkaido.klikeneet.be/,173276.6536907099,174564.3394980561,Lei - vismarkt
+351,50.9198787,4.758522,Holsbeek,2,3220,Meesberg,Devi & Emmanuelle,,butcher_shop,,,177406.9408343424,178912.24265911616,Holsbeek-centrum
+352,50.831304,4.7269669,Oud-Heverlee,49,3053,Milsestraat,Den Deugniet,,pub,belgian,,175235.75824844927,169047.96768851392,Haasrode-kern
+353,50.8773269,4.6981656,Leuven,1,3000,Minderbroedersstraat,Lama Nachtwinkel,,grocery_shop,night_shop,,173184.00190726243,174158.13515297044,Damiaanplein
+354,50.8586455,4.6157263,Bertem,7,3060,Molenstraat,Bistro 't Moleke,,restaurant,cafe,,167388.9046934749,172057.4303533556,Sint-veroneveldekens
+355,50.8790835,4.7060553,Leuven,8,3000,Monseigneur Ladeuzeplein,Den Beiaard,,cafe,brasserie,,173738.38341282358,174356.0382368574,Ladeuze
+356,50.8786784,4.7054887,Leuven,1,3000,Monseigneur Ladeuzeplein,Picasso,,cafe,brasserie,,173698.71281886802,174310.79332970455,Ladeuze
+357,50.8788461,4.705721,Leuven,4,3000,Monseigneur Ladeuzeplein,Decadenza Gelateria,,ice_cream,,,173714.9766095953,174329.52268874366,Ladeuze
+358,50.8781456,4.7021679,Leuven,22,3000,Muntstraat,Barcode,,bar,,,173465.2709249899,174250.4675826747,Leuven-centrum
+359,50.8780654,4.7025915,Leuven,28-30,3000,Muntstraat,Libertad,,pub,,http://www.libertad.be,173495.1232343674,174241.68030885886,Leuven stadspark
+360,50.8782002,4.7024737,Leuven,11,3000,Muntstraat,Quo Vadis,,restaurant,pizza,http://www.quovadisleuven.be,173486.76516225789,174256.63819561712,Leuven-centrum
+361,50.878234,4.7023328,Leuven,9,3000,Muntstraat,Samourai,"Mo-Su 12:00-14:30,17:30-22:30",restaurant,sushi;japanese;fusion,https://samouraisushi.be/,173476.83198907872,174260.35347908363,Leuven-centrum
+362,50.877903,4.7032044,Leuven,44,3000,Muntstraat,Mykene,,restaurant,belgian,https://www.mykene.be/,173538.33951320586,174223.80934343208,Leuven stadspark
+363,50.878299,4.7013325,Leuven,8,3000,Muntstraat,Casa Mia,,restaurant,italian,https://www.ristorantecasamia.be/,173406.40056165826,174267.26768551674,Leuven-centrum
+364,50.8781327,4.7028593,Leuven,19,3000,Muntstraat,PepeNero,,restaurant,italian,https://www.pepenero.be/,173513.9367384556,174249.2517412277,Leuven-centrum
+365,50.8781512,4.7027467,Leuven,17,3000,Muntstraat,Ascoli,,restaurant,,,173506.0028990623,174251.27396867238,Leuven-centrum
+366,50.8781115,4.7029597,Leuven,21,3000,Muntstraat,Sakura,,restaurant,japanese,https://www.resto-sakura.be/,173521.0133265666,174246.9253038736,Leuven-centrum
+367,50.8782562,4.7022316,Leuven,7,3000,Muntstraat,You Sushi,"Mo-Sa 11:45-14:30,17:30-22:00; Su closed",restaurant,sushi;japanese,,173469.69863616725,174262.79096356127,Leuven-centrum
+368,50.8779902,4.7029174,Leuven,36,3000,Muntstraat,Trente,,restaurant,international;fine_dining,http://www.trente.be,173518.0971835201,174233.41839737352,Leuven stadspark
+369,50.8780422,4.7032037,Leuven,27,3000,Muntstraat,Troubadour,,restaurant,regional;belgian,https://www.troubadour.be,173538.22036133273,174239.2938077422,Leuven-centrum
+370,50.8783227,4.7011031,Leuven,2-4,3000,Muntstraat,Burger Folie,,restaurant,burger,http://www.burgerfolie.be,173390.24407751276,174269.83165361919,Leuven-centrum
+371,50.8782195,4.7017904,Leuven,14,3000,Muntstraat,La Favola,,restaurant,italian,https://www.lafavola.be/,173438.66628632092,174258.5687918365,Leuven-centrum
+372,50.8782373,4.7016999,Leuven,12,3000,Muntstraat,La Cantina del Coronel,Mo-Sa 18:00-22:30; Su 18:00-22:00,restaurant,mexican,https://www.lacantina.be/,173432.28819118615,174260.52025323454,Leuven-centrum
+373,50.8782678,4.7015134,Leuven,10,3000,Muntstraat,Wabi Sabi,"Mo-Su 11:00-14:30,17:30-22:00",restaurant,japanese;thai,https://www.wabisabisushi.be/,173419.14748496417,174263.85413422436,Leuven-centrum
+374,50.8779639,4.7030166,Leuven,38-42,3000,Muntstraat,New Mexico,,restaurant,mexican,https://www.newmexico.be,173525.09190006665,174230.52425790764,Leuven stadspark
+375,50.8782044,4.7018648,Leuven,16,3000,Muntstraat,Antico Pizza,"Mo-Tu 17:30-22:00; We-Su 12:00-14:30,17:30-22:00",restaurant,pizza,https://anticopizza.be/,173443.90995173753,174256.9125941638,Leuven-centrum
+376,50.8608152,4.6957085,Heverlee,230,3001,Naamsesteenweg,Roderburg,"Tu-Fr 08:30-12:30,13:30-18:00; Sa 09:00-16:00",butcher_shop,,,173019.1775353231,172320.60226843413,Heverlee station
+377,50.8585804,4.6960089,Heverlee,341,3001,Naamsesteenweg,Snackbar Stefnick,,fast_food,sandwich_shop,,173041.42480477825,172072.0963986842,Heverlee station
+378,50.8585298,4.696001,Heverlee,343,3001,Naamsesteenweg,Bon Hapart,,fast_food,italian;pasta;soup,,173040.89344502962,172066.46519825328,Heverlee station
+379,50.8672091,4.6975221,Heverlee,33,3001,Naamsesteenweg,Exotic Mini Market,,grocery_shop,,,173143.70649879126,173032.42568108812,Heverlee naamse poort
+380,50.8670726,4.6974499,Heverlee,39,3001,Naamsesteenweg,Numbur Nachtwinkel Sherpa Dawa,,grocery_shop,night_shop,,173138.69137785857,173017.21883829217,Heverlee naamse poort
+381,50.8585309,4.6956183,Heverlee,294,3001,Naamsesteenweg,S&S Mini Market,"Mo-Th 10:00-20:00; Fr 10:00-21:00; Sa,Su 12:00-20:00; PH 10:00-21:00",grocery_shop,,,173013.94799037612,172066.46863513254,Heverlee station
+382,50.8619217,4.6956716,Heverlee,192,3001,Naamsesteenweg,Khin,"Mo off; Tu-Th 11:30-14:00,17:30-20:30; Fr 11:30-14:00,17:30-21:00; Sa 17:30-21:00; Su 11:30-14:00,17:30-20:30",restaurant,thai,https://www.khin.be/,173016.03658570937,172443.6779656643,Heverlee station
+383,50.8622326,4.6960738,Heverlee,213,3001,Naamsesteenweg,Furbetto,,restaurant,italian,https://www.furbetto.be,173044.1996317941,172478.3875176413,Heverlee station
+384,50.8560177,4.6949427,Heverlee,380,3001,Naamsesteenweg,Spar,Mo-Fr 09:00-19:00; Sa 09:00-18:00,supermarket,,,172967.61141524985,171786.6907419525,Heverlee station
+385,50.878491,4.7006786,Leuven,14,3000,Naamsestraat,Nosh,,cafe,coffee_shop;bagel;brunch,,173360.2848693382,174288.41954011656,Leuven-centrum
+386,50.8766502,4.7005988,Leuven,49,3000,Naamsestraat,Noir Coffeebar,Mo-Fr 08:30-18:00; Sa 10:00-18:00; Su 10:30-16:30,cafe,coffee_shop,http://www.noir.coffee/,173355.58575798527,174083.62274610065,Leuven stadspark
+387,50.874242,4.699811,Leuven,90,3000,Naamsestraat,The Sandwich Factory,,fast_food,sandwich_shop,,173301.3370276317,173815.4853533823,Leuven naamsestraat-noord
+388,50.8771385,4.7004298,Leuven,36,3000,Naamsestraat,Pepas,,fast_food,friture,,173343.44836979307,174137.88825478405,Leuven-centrum
+389,50.8773456,4.7006508,Leuven,29,3000,Naamsestraat,Tabi Loo,"Mo-Fr 11:30-14:30,17:00-21:00; Sa 17:00-21:00",fast_food,vegan,https://www.tabiloo.be/,173358.89905635055,174160.99581588525,Leuven stadspark
+390,50.8718401,4.6994508,Leuven,116,3000,Naamsestraat,t Studentje,"Mo, Fr 11:30-14:00, 17:00-22:30; Tu-Th 11:30-14:00, 17:00-23:00; Sa-Su 17:00-23:00",fast_food,friture,,173277.17716025602,173548.1837544106,Sint-kwintens
+391,50.8738081,4.6996379,Leuven,96,3000,Naamsestraat,STUKcafé,Mo-Fr 11:00-02:00; Sa-Su 14:00-02:00; Jul-Aug off,pub,,,173289.3691093388,173767.1636997601,Leuven naamsestraat-noord
+392,50.8773052,4.7004313,Leuven,32,3000,Naamsestraat,K.V.H.V.,,pub,,,173343.4709377347,174156.43252861314,Leuven-centrum
+393,50.8758023,4.7002173,Leuven,62,3000,Naamsestraat,Taste,Tu-Sa 19:00-24:00; Su 12:00-16:00,restaurant,fine_dining,https://www.leuventaste.be/,173329.15760052766,173989.18172979355,Damiaanplein
+394,50.877379,4.7004411,Leuven,28,3000,Naamsestraat,Sushi Hungry Eye,"Su-Fr 11:30-15:00,17:00-22:00",restaurant,indian;sushi,https://www.sushi-hungryeye.be/,173344.123907758,174164.64516938943,Leuven-centrum
+395,50.8783472,4.7009605,Leuven,5,3000,Naamsestraat,Ellis burger,,restaurant,burger,https://www.ellisgourmetburger.be/,173380.1959946372,174272.51204681396,Leuven-centrum
+396,50.8784217,4.7006735,Leuven,16,3000,Naamsestraat,Den Angelus,,restaurant,belgian,https://www.den-angelus.be/,173359.96047438783,174280.708958989,Leuven-centrum
+397,50.8766128,4.7006194,Leuven,51,3000,Naamsestraat,New Holy Cow,"We-Th,Sa 12:00-14:00,17:30-22:00; Fr 12:00-14:00; Su-Mo 12:00-14:30,17:30-22:00",restaurant,indian,https://www.newholycow.com/,173357.05422324224,174079.46884278394,Leuven stadspark
+398,50.8767841,4.700642,Leuven,43,3000,Naamsestraat,Saki Sushi,"Mo-Fr 11:00-14:30,16:00-22:00; Su 15:00-22:00",restaurant,japanese;sushi,https://www.sakisushileuven.be,173358.55947217636,174098.53147127666,Leuven stadspark
+399,50.8774525,4.7007189,Leuven,25,3000,Naamsestraat,Namaste Tandoori,"Tu-Su 11:30-15:00,17:30-22:00",restaurant,indian,https://www.namastetandoori.be/,173363.63860727425,174172.90890097246,Leuven stadspark
+400,50.8691707,4.6988047,Leuven,178,3000,Naamsestraat,Xiongmao Panda,"Mo-Th 17:00-22:00; Fr-Su 11:30-14:30,17:00-22:00",restaurant,chinese,,173233.0224356186,173251.03598884773,Sint-kwintens
+401,50.8719116,4.6994635,Leuven,114,3000,Naamsestraat,Jagat's Place,,restaurant,pizza,https://www.jagatsplace.com/,173278.03558417206,173556.14143215772,Sint-kwintens
+402,50.8767443,4.7006423,Leuven,45,3000,Naamsestraat,Raffat,Mo-Su 17:30-22:00; Tu off,restaurant,persian;pakistani,https://www.raffat.be/,173358.60041551897,174094.10419220105,Leuven stadspark
+403,50.8766985,4.7006345,Leuven,47,3000,Naamsestraat,Tiflis,"Tu-Th 17:30-23:00; Fr-Sa 12:00-15:00,17:30-23:00; Mo,Su,PH off",restaurant,georgian,https://www.tfls-leuven.be,173358.07426888723,174089.00691668317,Leuven stadspark
+404,50.8760711,4.700208,Leuven,48,3000,Naamsestraat,Carrefour Express,"Mo-Fr 07:30-20:00; PH,Sa,Su 08:00-20:00",supermarket,,,173328.36930467872,174019.08025383484,Damiaanplein
+405,50.9263018,4.694394,Wijgmaal,2,3018,Nieuwstraat,Chantal,,bakery,,,172894.6173121431,179604.99822623935,Wijgmaal-kern
+406,50.8424002,4.6404228,Bertem,118,3060,Nijvelsebaan,Frituur De Nieuw Route,"We-Sa 17:00-22:00; Su 11:30-13:30,17:00-22:00",fast_food,friture,https://frituurdenieuwroute.be/,169134.35133160115,170256.3901900798,Korbeek-dijle-kern
+407,50.9203267,4.7569174,Holsbeek,15,3220,Nobelberg,Walt en Vicky,Tu-Fr 09:00-16:00; Sa-Su 07:00-13:00,bakery,,,177293.85206325178,178961.48680546787,Holsbeek-centrum
+408,50.9201645,4.7581261,Holsbeek,3b,3220,Nobelberg,Frituur J&S,,fast_food,friture,,177378.93603438046,178943.8891839413,Holsbeek-centrum
+409,50.9070431,4.6735504,Herent,58,3020,Onze-Lieve-Vrouwplein,Kiku Sushi,Mo-Su 17:00-22:00,restaurant,sushi;indian;thai;meat;fish;salad,https://www.kikusushi.be,171438.00239311095,177456.38720786292,Herent-centrum
+410,50.8794878,4.6969535,Leuven,18,3000,Onze-Lieve-Vrouwstraat,Kloosterbar,,bar,,,173097.63055969027,174398.13648038078,Leuven kliniek -o.l.vrouw-kerk
+411,50.9040455,4.6737546,Herent,2,3020,Onze-Lieve-Vrouwstraat,Den Travoo,"Mo 00:00-2:00, 11:00-24:00,Tu 00:00-2:00, 08:00-24:00; We-Su 00:00-2:00, 11:00-24:00",cafe,,https://www.dentravoo.be,171453.7375035213,177122.98834858555,Herent-centrum
+412,50.9064392,4.6737481,Herent,46,3020,Onze-Lieve-Vrouwstraat,Frituur Patana,Mo-Su 17:00-21:00,fast_food,friture,https://www.patana.be,171452.18413449213,177389.26557624433,Herent-centrum
+413,50.8782694,4.69931,Leuven,43,3000,Oude Markt,Karement,,bar,cafe,,173264.07620761247,174263.33807070926,Leuven-centrum
+414,50.8781961,4.6992292,Leuven,42,3000,Oude Markt,Farao,,bar,pub,,173258.4260444361,174255.1587710213,Leuven-centrum
+415,50.878308,4.6993449,Leuven,44,3000,Oude Markt,De Weerelt,,bar,pub,,173266.51323708077,174267.64291518647,Leuven-centrum
+416,50.8782991,4.699878,Leuven,9,3000,Oude Markt,Bar Nine,Mo-Su 11:00-02:00,bar,cocktail_bar,https://www.bar-nine.be/,173304.03604537173,174266.82039041538,Leuven-centrum
+417,50.8786627,4.7001597,Leuven,2,3000,Oude Markt,Casper,Mo-Su 11:30-23:00,fast_food,,https://www.eatcasper.com,173323.68057225796,174307.35610087682,Leuven-centrum
+418,50.8787846,4.7000365,Leuven,56,3000,Oude Markt,Domino's,Mo-Su 11:00-22:30,fast_food,pizza,https://www.dominos.be/,173314.94947489176,174320.8775614798,Leuven-centrum
+419,50.8773452,4.6992006,Leuven,27,3000,Oude Markt,Loco Pizza,Ma-So 11:00-01:00,fast_food,italian,,173256.83533705096,174160.49518056773,Leuven-centrum
+420,50.878615,4.700124,Leuven,3,3000,Oude Markt,Ambiorix,Su-Fr 16:00-06:00; Sa 13:00-06:00,pub,bar,http://ambiorixleuven.be/,173321.19183352726,174302.0386880124,Leuven-centrum
+421,50.8784349,4.6999636,Leuven,7-8,3000,Oude Markt,Barvista,Su-Fr 12:00-01:00; Sa 12:00-04:00,pub,,https://www.barvista.be/,173309.9928618999,174281.95378709212,Leuven-centrum
+422,50.8785445,4.7000468,Leuven,4,3000,Oude Markt,De Rector,Mo-Su 12:00-01:00,pub,brasserie,https://www.derector.be,173315.7937679986,174294.171932159,Leuven-centrum
+423,50.8787181,4.6996921,Leuven,52-53,3000,Oude Markt,Apero,"Tu-Sa 11:30-05:00; Su,Mo 11:30-03:00",pub,cafe,,173290.74465762684,174313.3717580801,Leuven-centrum
+424,50.8785581,4.6995709,Leuven,49,3000,Oude Markt,Blokhut,,pub,cafe,,173282.29440662335,174295.53517359868,Leuven-centrum
+425,50.8786076,4.6996099,Leuven,50,3000,Oude Markt,Bar Rustic,,pub,bar,,173285.01453912488,174301.05383789446,Leuven-centrum
+426,50.8784319,4.6994572,Leuven,46,3000,Oude Markt,Metropole,,pub,cafe,http://www.cafe-metropole.be,173274.35514966492,174281.46089163236,Leuven-centrum
+427,50.8784849,4.6995094,Leuven,47,3000,Oude Markt,Plaza 47,,pub,bar,http://www.plaza47.be,173278.00254316535,174287.37304019276,Leuven-centrum
+428,50.8786627,4.6996422,Leuven,51,3000,Oude Markt,Revue,,pub,cafe,,173287.26035667525,174307.19334555697,Leuven-centrum
+429,50.8783535,4.699386,Leuven,45,3000,Oude Markt,Den Brosser,,pub,cafe,,173269.3831795084,174272.71726789325,Leuven-centrum
+430,50.8779163,4.6989758,Leuven,35,3000,Oude Markt,Café Belge,"Mo-We 14:00-27:00; Th,Fr 14:00-29:00; Sa 12:00-29:00; Su 14:00-26:00",pub,,,173240.73098149477,174223.95414815098,Leuven-centrum
+431,50.8779849,4.6990116,Leuven,36,3000,Oude Markt,De Kroeg,,pub,,,173243.21651582015,174231.59648139589,Leuven-centrum
+432,50.8780445,4.6990754,Leuven,38,3000,Oude Markt,De Giraf,,pub,bar,,173247.6770937181,174238.2464345349,Leuven-centrum
+433,50.8780932,4.6991232,Leuven,39-40,3000,Oude Markt,Louvain Louvain,,pub,,,173251.01701695358,174243.67884866055,Leuven-centrum
+434,50.8777337,4.6994942,Leuven,20,3000,Oude Markt,De Kult,,pub,,,173277.3057794562,174203.80433102325,Leuven-centrum
+435,50.8776418,4.6993994,Leuven,21,3000,Oude Markt,Villa Tempo,,pub,,,173270.6795018128,174193.5515469173,Leuven-centrum
+436,50.877598,4.6993681,Leuven,22,3000,Oude Markt,Het Forum,,pub,cafe,,173268.4983852519,174188.66938071698,Leuven-centrum
+437,50.8777606,4.69889,Leuven,32,3000,Oude Markt,Rock Café,"Mo-Th 15:30-27:00; Fr,Sa 15:00-29:00; Su 14:30-26:00",pub,cafe,https://www.rockcafeleuven.be/,173234.76968383958,174206.6070822738,Leuven-centrum
+438,50.8777988,4.6989129,Leuven,33,3000,Oude Markt,The Saloon,,pub,,,173236.36242020564,174210.86365328357,Leuven-centrum
+439,50.8781424,4.6991864,Leuven,41,3000,Oude Markt,Cafe Allee,Mo-Sa 10:00-08:00; Su 10:00-24:00,pub,cafe,https://www.opcafegaan.be/leuven/cafe-allee,173255.44050655875,174249.17171814851,Leuven-centrum
+440,50.8780691,4.6991208,Leuven,39-40,3000,Oude Markt,Vesper,Mo 12:00-26:00; Tu-Sa 12:00-29:00; Su 12:00-25:00,pub,,,173250.86006182854,174240.99719725363,Leuven-centrum
+441,50.8785193,4.6995438,Leuven,48,3000,Oude Markt,Donki,,restaurant,mexican,http://www.rockindonki.com,173280.40644671663,174291.2105237944,Leuven-centrum
+442,50.8775901,4.698791,Leuven,29,3000,Oude Markt,Cafe Manger,Tu-Sa 11:00-29:00,restaurant,international;pub,https://cafemanger.be/,173227.88667840365,174187.6095256135,Leuven-centrum
+443,50.8776741,4.6988218,Leuven,30,3000,Oude Markt,t Katastroofke,,restaurant,sandwich_shop,,173230.01272490824,174196.9633895941,Leuven-centrum
+444,50.8778667,4.6989536,Leuven,34,3000,Oude Markt,The Sushi Lounge,,restaurant,japanese,http://www.thesushilounge.be,173239.1931685704,174218.42965246085,Leuven-centrum
+445,50.8774301,4.6992371,Leuven,25,3000,Oude Markt,Karamna,,restaurant,lebanese,,173259.36205750259,174169.95096130017,Leuven-centrum
+446,50.9027388,4.6179613,Veltem-Beisem,68,3020,Overstraat,Brooderij Van Velthem,,bakery,,http://brooderijvanvelthem.be/,167529.7589497191,176962.94724442158,Beisem-verspreide bewoning
+447,50.86086,4.7072118,Leuven,61,3001,Pakenstraat,Brasserie Pakenhof,,pub,brasserie,,173829.0326453388,172329.22202163283,Saffranenberg
+448,50.8785691,4.6990495,Leuven,28,3000,Parijsstraat,Koffie Onan,Mo-Su 08:00-17:30,cafe,coffee_shop,http://www.koffieonan.be,173245.5941826196,174296.59513002913,Leuven-centrum
+449,50.8785858,4.6992551,Leuven,35,3000,Parijsstraat,Le Pain Quotidien,,cafe,coffee_shop;bakery;restaurant,http://www.lepainquotidien.be,173260.0554845686,174298.51736429054,Leuven-centrum
+450,50.8786399,4.6992979,Leuven,33-35,3000,Parijsstraat,Le Pain Quotidien,Mo-Sa 08:00-17:00; Su 08:00-16:00,cafe,coffee_shop;bakery;restaurant,http://www.lepainquotidien.be,173263.04078998716,174304.54891680554,Leuven-centrum
+451,50.877609,4.6983134,Leuven,56,3000,Parijsstraat,Oxfam Wereldwinkel,Mo-Sa 10:00-18:00,grocery_shop,,https://www.oxfamwereldwinkels.be/,173194.26439353888,174189.56237318087,Damiaanplein
+452,50.8787752,4.6994289,Leuven,27,3000,Parijsstraat,Hops 'N More,,grocery_shop,beer_store,https://www.hopsnmore.com/,173272.1930478057,174319.64090503193,Leuven-centrum
+453,50.8783634,4.6989251,Leuven,34,3000,Parijsstraat,Metafoor,Mo-Su 11:00-24:00,pub,bar,,173236.94119313135,174273.6739201229,Leuven-centrum
+454,50.8785258,4.6990197,Leuven,30,3000,Parijsstraat,Den Delper,,pub,cafe,,173243.51840480207,174291.76906381268,Leuven-centrum
+455,50.878636,4.6990956,Leuven,24-26,3000,Parijsstraat,Resto Ribs,Mo-Th 17:00-22:00; Fr-Su 12:00-22:00,restaurant,steak_house,https://www.resto-ribs.be/,173248.8054032536,174304.05158944242,Leuven-centrum
+456,50.879185,4.6998064,Leuven,7,3000,Parijsstraat,Intertaste,,restaurant,tibetan,,173298.55672896563,174365.34593437705,Leuven-centrum
+457,50.8789368,4.6996002,Leuven,21,3000,Parijsstraat,Kalypta,"Mo 11:30-14:30,17:30-22:00; Tu 17:30-22:00; We-Th 11:30-14:30,17:30-22:00; Fr-Sa 11:30-14:30,17:30-22:30; Su 11:30-14:30,17:30-22:00",restaurant,international;indian;italian;mexican;greek,https://www.kalypta.be/,173284.16837758006,174337.67120032106,Leuven-centrum
+458,50.8791128,4.6994995,Leuven,6,3000,Parijsstraat,Bar Leuv,"Mo-Fr 10:00-16:00; Sa,Su 10:00-17:00",restaurant,brunch,https://barleuv.be,173276.99404567704,174357.21791330166,Leuven-centrum
+459,50.8788586,4.6995181,Leuven,23,3000,Parijsstraat,Oona,"Mo,Tu,Th,Fr 11:30-14:30, Mo-Fr 17:30-22:00, Sa,Su 11:30-22:00",restaurant,asian,http://www.restro-oona.be,173278.4292702094,174328.9463899359,Leuven-centrum
+460,50.8782108,4.69896,Leuven,49,3000,Parijsstraat,Palmyra,"We-Sa 12:00-14:30,17:00-22:00; Su,Mo 17:00-22:00",restaurant,syrian;lebanese,https://www.palmyra-restaurant.com,173239.47301865875,174256.70954854414,Leuven-centrum
+461,50.8783421,4.6990751,Leuven,39,3000,Parijsstraat,L'inizio,"Mo-Fr 12:00-13:30,18:00-21:00",restaurant,italian;southern_italian,https://linizio.be/,173247.50840736314,174271.351542918,Leuven-centrum
+462,50.8784437,4.6989632,Leuven,32,3000,Parijsstraat,Brasserie De Nieuwe Tijd,,restaurant,international;brasserie,,173239.58277732256,174282.6184889786,Leuven-centrum
+463,50.8779559,4.6985976,Leuven,48,3000,Parijsstraat,Life Bar,Tu-Sa 09:00-17:00; Su 10:00-16:00; PH off,restaurant,breakfast;lunch,https://www.lifebar.be/,173214.09428071804,174228.24072819576,Leuven-centrum
+464,50.8782578,4.6989981,Leuven,23,3000,Parijsstraat,Sushi Mama,"Tu-Sa 12:00-14:30,17:30-23:00; Su,Mo 17:30-23:00",restaurant,sushi,https://www.sushimamaleuven.be,173242.13111621144,174261.94980620872,Leuven-centrum
+465,50.8784228,4.6991529,Leuven,37,3000,Parijsstraat,Su Sud Bistro,,restaurant,mediterranean,,173252.9437666835,174280.3530702386,Leuven-centrum
+466,50.876305,4.697615,Leuven,82,3000,Parijsstraat,Palmyra 2,,restaurant,syrian;lebanese,,173145.75559968685,174044.2862980673,Damiaanplein
+467,50.8739529,4.7004874,Leuven,14,3000,Parkstraat,Poescafé,Tu-We 11:00-18:00; Tu 14:00-18:00; Fr-Sa 11:00-17:00,pub,cat_cafe,,173349.088633257,173783.53864544723,Leuven naamsestraat-noord
+468,50.9290727,4.7253408,Wilsele,1,3012,Pastorijweg,Delhaize,,supermarket,,https://stores.delhaize.be/nl/delhaize-wilsele,175068.87417506598,179923.25384421553,Putkapel-centrum
+469,50.8759522,4.6975748,Leuven,2,3000,Pater Damiaanplein,Soigneur,,cafe,pub,,173143.1004449286,174005.02807839029,Damiaanplein
+470,50.8841401,4.6918546,Leuven,1,3000,Paul Delvauxwijk,Nachtwinkel,,grocery_shop,night_market,,172736.53365262772,174914.08485724125,Noormannen
+471,50.8798298,4.6997935,Leuven,5,3000,Pensstraat,Beenhouwerij Rondou,,butcher_shop,,http://www.beenhouwerijrondou.be,173297.32843739007,174437.0698413048,Lei - vismarkt
+472,50.8798819,4.699825,Leuven,7,3000,Pensstraat,Slagerij Janssens,,butcher_shop,,,173299.51937128886,174442.87538292445,Lei - vismarkt
+473,50.8797377,4.6999259,Leuven,3,3000,Pensstraat,La Vecchia Napoli,Mo-Sa 17:30-22:00; Su off,restaurant,pizza,,173306.69193858435,174426.86621189862,Leuven-centrum
+474,50.9083627,4.6755419,Leuven,6,3000,Pensstraat,Napoli Pizza,Mo-Su 16:00-22:30,restaurant,pizza,https://www.napolipizzapastagrill.be/,171577.4663321639,177603.75989056844,Herent-centrum
+475,50.9040227,4.6693882,Herent,50,3020,Persilstraat,Brasserie De Persil,Mo-Sa 12:00-21:00,restaurant,regional,https://www.de-persil.be/,171146.61820998415,177119.19671482872,Herent-centrum
+476,50.8781882,4.7083429,Leuven,19,3000,Ravenstraat,Tokio Sushi Bar,,restaurant,japanese,http://www.tokiosushibar.be,173899.8332358728,174257.1798459869,Blijde inkomststraat
+477,50.878138,4.7082382,Leuven,15,3000,Ravenstraat,De Appel,,restaurant,regional;brasserie,,173892.4902515599,174251.56180967018,Blijde inkomststraat
+478,50.87946,4.7024817,Leuven,3,3000,Rector De Somerplein,Le Graal,Mo-Tu 08:30-18:30; Th-Sa 08:30-18:30; Su 08:30-18:00,cafe,espresso_bar,,173486.69705037976,174396.7816357026,Bondgenotenlaan
+479,50.8794115,4.7022837,Leuven,1,3000,Rector De Somerplein,Burger King,,fast_food,burger,,173472.7868809627,174391.32372944523,Bondgenotenlaan
+480,50.8788879,4.7024754,Leuven,19,3000,Rector De Somerplein,Tortilla & Co,off,fast_food,,,173486.54028697882,174333.13888694067,Leuven-centrum
+481,50.8788738,4.7025541,Leuven,18,3000,Rector De Somerplein,Mono Burger,Mo-Su 12:00-22:00,fast_food,burger,https://www.monoburger.be/,173492.08601276498,174331.5953407446,Leuven-centrum
+482,50.8794548,4.7031309,Leuven,8,3000,Rector De Somerplein,Exki,Mo-Fr 08:00-17:00; Sa 09:00-18:00; Su 09:00-16:00,fast_food,healthy;sandwich_shop,https://www.exki.be/,173532.38777360177,174396.40914413426,Bondgenotenlaan
+483,50.8789942,4.7031151,Leuven,14,3000,Rector De Somerplein,Belchicken,Mo-Sa 11:30-21:00; 16:00-21:00,fast_food,chicken;fried_chicken,https://belchicken.com,173531.50702106248,174345.16670385562,Leuven-centrum
+484,50.8545014,4.6584379,Leuven,1,3000,Rector de Somerplein,Burger King,,fast_food,burger,,170397.92247018637,171607.33441493288,Rotspoel-verspreide bewoning
+485,50.8517487,4.6582082,Leuven,1,3000,Rector de Somerplein,Burger King,,fast_food,burger,,170382.94492380062,171301.06066491827,Rotspoel-verspreide bewoning
+486,50.8794695,4.7030378,Leuven,7,3000,Rector de Somerplein,O'Tacos,Mo-Th 11:00-22:00; Fr-Sa 11:00-23:00; Su 11:00-22:00,fast_food,french_tacos,,173525.82838873751,174398.01482050773,Bondgenotenlaan
+487,50.8794428,4.7032123,Leuven,9,3000,Rector De Somerplein,Pane & Vita,Mo-Fr 07:30-17:30; Sa 08:00-17:00,restaurant,sandwich_shop,https://pane-vita.business.site/,173538.12240714877,174395.10010924004,Bondgenotenlaan
+488,50.8789115,4.7029522,Leuven,15A,3000,Rector De Somerplein,Boccone,Mo-Fr 11:30-20:00,restaurant,italian,https://boccone.be/,173520.08414304067,174335.91539052688,Leuven-centrum
+489,50.8791148,4.7033079,Leuven,12,3000,Rector De Somerplein,Carrefour,Mo-Fr 07:00-20:00; Sa 08:00-20:00,supermarket,,https://winkels.carrefour.be/nl/s/carrefour/carrefour-express-leuven-rector/1484,173545.0150846692,174358.64356081001,Bondgenotenlaan
+490,50.8850392,4.6925924,Leuven,141,3000,Riddersstraat,Van Langendonck Vleesgroothandel,,butcher_shop,meat wholesaler,,172788.01482935154,175014.3281483585,Keizersberg
+491,50.8841875,4.6924432,Leuven,116,3000,Riddersstraat,Baig Voeding,,grocery_shop,,,172777.9298444788,174919.5384434769,Bruul
+492,50.882557,4.6912937,Leuven,65,3000,Riddersstraat,FiFo De Fruittoren,,grocery_shop,fruit and vegetable store,,172697.8302168693,174737.80756327417,Noormannen
+493,50.9229002,4.7549918,Holsbeek,39,3220,Rotselaarsebaan,Frituur Het Jachthuis,,fast_food,friture,,177156.96261553396,179247.0598143274,Holsbeek-verspreide bewoning
+494,50.8779841,4.7025507,Leuven,3,3000,s Meiersstraat,Masalatop,,restaurant,indian,https://www.masalatop.be/,173492.29254551366,174232.62351528183,Leuven stadspark
+495,50.9394651,4.6652923,Haacht,3,3150,Sas,Maritime,,cafe,brasserie,,170842.7337251578,181060.7274788823,Tildonk-verspreide bewoning
+496,50.8944676,4.7488402,Kessel-Lo,218,3010,Schoolbergenstraat,De Kastaar,,pub,cafe,,176740.65826042285,176081.94644155633,Plein
+497,50.8809171,4.7010671,Leuven,17,3000,Schrijnmakersstraat,Barboek,,cafe,book_store,https://barboek.be/,173386.4162334586,174558.42298688926,Lei - vismarkt
+498,50.8516593,4.658077,Heverlee,,3001,Sint-Jansbergsesteenweg,Starbucks,Mo-Fr 07:00-20:00; Sa-Su 10:00-19:00,cafe,coffee_shop,,170373.74495952204,171291.07971635554,Rotspoel-verspreide bewoning
+499,50.8626893,4.6593965,Egenhoven,240,3001,Sint-Jansbergsesteenweg,Tsubaki sushi,"We-Su 11:30-14:30,17:30-22:00",restaurant,asian;thai;sushi,https://www.tsubakisushi.be/,170461.84749926216,172518.42266864982,Egenhoven
+500,50.8809999,4.7061231,Leuven,12/1,3000,Sint-Maartenstraat,Rudy's Fondueshuisje,,restaurant,fondue,,173742.18441033512,174569.2414653292,Sint-maartensdal
+501,50.921773,4.7575284,Holsbeek,2,3220,Sint-Maurusstraat,Cafetaria De Schuur,,cafe,,https://cafetariadeschuur.be,177335.970396469,179122.60065397806,Holsbeek-centrum
+502,50.8741447,4.6896747,Leuven,3,3000,Slachthuislaan,ALDI,Mo-Sa 08:30-19:00,supermarket,,https://www.aldi.be,172587.95185743278,173801.52301351447,Bankstraat
+503,50.8871553,4.6998204,Leuven,79,3000,Sluisstraat,Grand Café De Hoorn,"Mo-Fr 08:00-24:00, Sa 11:30-24:00",cafe,belgian,,173295.58080721615,175251.97251993138,Leuven vaart
+504,50.8952395,4.8181106,Lubbeek,112,3210,Staatsbaan,Lidl,,supermarket,,,181613.52864120694,176195.0764924502,St.-bernard-kern
+505,50.877402,4.7010558,Leuven,4,3000,Standonckstraat,Thomas Stapleton,"Mo-Sa 16:00-02:00, Su 12:00-02:00",pub,irish pub,http://www.thomasstapleton.be,173387.37449648618,174167.39752636943,Leuven stadspark
+506,50.8774212,4.7009047,Leuven,2,3000,Standonckstraat,Ristorante Rossi,,restaurant,italian,https://www.ristoranterossi.be/,173376.73063915374,174169.48566791322,Leuven stadspark
+507,50.8576806,4.7810634,Bierbeek,2,3360,Stationsstraat,Taverne Ferro,,fast_food,friture,,179030.42541586547,172001.8805075707,Lovenjoel-centrum
+508,50.8575995,4.7810335,Bierbeek,2,3360,Stationsstraat,Frituur Ferro,,fast_food,friture,,179028.3703816333,171992.84728881624,Lovenjoel-centrum
+509,50.9397177,4.736245,Rotselaar,253,3110,Stationsstraat,Frituur Het Rond Punt,"Mo-Fr 11:30-14:00,16:30-22:30; Su 16:30-22:30",fast_food,friture,,175829.58504292852,181111.17158408836,Vrouwenpark
+510,50.944341,4.7282219,Rotselaar,165,3110,Stationsstraat,Café Jerom,,pub,bar,,175263.18201050677,181622.71348860487,Melkerij
+511,50.9009163,4.6343741,Herent,83,3020,Stationsstraat,Boeket Garni,,restaurant,,https://boeketgarni.be/,168684.98593499395,176764.22194376867,Veltem-centrum
+512,50.8955756,4.6419711,Herent,19,3020,Termerestraat,Spar,,supermarket,,,169221.58169462596,176172.0578361433,Ijzerenberg
+513,50.8663333,4.6335778,Heverlee,93,3001,Tervuursesteenweg,Yves Guns,Mo-Sa 06:30-18:30; Tu off; Su 07:00-14:00,bakery,,https://www.yvesguns.be/,168642.72634774464,172916.96801629942,Bertem centrum-oost
+514,50.8650149,4.6276183,Bertem,161a,3060,Tervuursesteenweg,Frituur Sabrina,"Mo,Tu,Fr,Sa 17:00-22:00, Fr,Sa 12:00-14:00; Su 17:00-22:00",fast_food,friture,,168223.71423410453,172768.82516539283,Bertem centrum
+515,50.8687879,4.6466836,Leuven,609,3001,Tervuursesteenweg,Katrien Kookt,Tu-Fr 11:00-19:00; Sa 10:00-15:00,restaurant,,,169564.29680849664,173193.39938637987,Alsemberg
+516,50.8655495,4.6286237,Heverlee,186,3001,Tervuursesteenweg,Louis Delhaize,"We-Mo,PH 08:00-20:00",supermarket,,,168294.28365943208,172828.54226645175,Bertem centrum
+517,50.9118302,4.666765,Bertem,167,3060,Tervuursesteenweg ,Renmans,,butcher_shop,,,170958.61032955168,177986.97135169804,Zitteblok
+518,50.8794209,4.6892567,Leuven,11,3000,Tervuursestraat,Mamboz Bar & Lounge,,bar,,,172555.99259555282,174388.32342896145,Sint-jacobs
+519,50.8776699,4.6855927,Leuven,118,3000,Tervuursestraat,Mix Markt,,grocery_shop,,,172298.96731595296,174192.43197140843,Mannenstraat
+520,50.8792647,4.6889862,Leuven,10,3000,Tervuursestraat,Lo Robost,Fr 16:00-20:00; Sa 10:00-14:00,grocery_shop,liquor_shop,https://lorebost.be,172537.03094550382,174370.86532316078,Mannenstraat
+521,50.868764,4.6969611,Heverlee,,3001,Tervuursevest,Back to Basic,,fast_food,sandwich,,173103.44912951233,173205.21814275254,Heverlee naamse poort
+522,50.8705249,4.6920592,Leuven,113,3001,Tervuursevest,Lunch Delight,,restaurant,asian;chinese,https://www.facebook.com/LunchDelight/,172757.53951143572,173399.58438282833,Campus heverlee
+523,50.8706452,4.6919383,Heverlee,113,3001,Tervuursevest,Carrefour Market,"Mo-Th, Sa 08:00-20:00; Fr 09:00-18:00",supermarket,,https://winkels.carrefour.be/nl/s/carrefour/carrefour-market-heverlee/139?redirectdoteu=x,172748.97105901115,173412.9294792274,Campus heverlee
+524,50.8687732,4.6965164,Heverlee,,3001,Tervuursevest,Delhaize,"Mo-Th,Sa 08:00-20:00; Fr 08:00-21:00",supermarket,,,173072.14124861732,173206.1029978916,Heverlee naamse poort
+525,50.8685584,4.6975315,Heverlee,5a,3001,Tervuursevest,Kavkaz,,supermarket,,,173143.70224224697,173182.52513034828,Heverlee naamse poort
+526,50.8809314,4.6932989,Leuven,1B,3000,Tessenstraat,Slagerij Fontein,Mo-Sa 10:00-19:30,butcher_shop,,,172839.7310303019,174557.59073479753,Bruul
+527,50.8718713,4.7217195,Heverlee,166,3001,Tiensesteenweg,De Kapblok,,butcher_shop,,,174844.59659931928,173558.88458073325,H. hart
+528,50.8491632,4.7230823,Leuven,166,3001,Tiensesteenweg,De Kapblok,,butcher_shop,,https://foodgarage.be/slagerij/de-kapblok/,174952.59750061174,171033.2960976623,Haasrode industriezone
+529,50.8627886,4.7601626,Bierbeek,88,3360,Tiensesteenweg,Nightshop,,grocery_shop,night_market,,177555.83456526487,172562.11457584705,Korbeek-lo-centrum
+530,50.872344,4.7207151,Kessel-Lo,115,3010,Tiensesteenweg,La Lumaca,,restaurant,italian,,174773.64985998388,173611.13162189256,Belle vue
+531,50.8722439,4.7211375,Kessel-Lo,131,3010,Tiensesteenweg,Castello Lucano,,restaurant,italian,,174803.4341067949,173600.13775462843,Belle vue
+532,50.8688335,4.7343317,Leuven,344,3000,Tiensesteenweg,Bretoense Hoeve,,restaurant,french,,175734.00186242964,173225.26279778406,Ziekelingen
+533,50.8616944,4.7655226,Bierbeek,142,3360,Tiensesteenweg,Traiteur Culinesse,,restaurant,caterer,,177933.8339279439,172442.4023742592,Korbeek-lo-centrum
+534,50.8735655,4.7135714,Leuven,276,3000,Tiensestraat,Au Flan Breton,,bakery,,https://www.auflanbreton.be/,174270.19672383813,173744.64791057166,Tiensestraat
+535,50.8754646,4.7086877,Leuven,132-136,3000,Tiensestraat,Au Flan Breton,Mo-Sa 07:00-18:00; Su 07:00-13:00; PH 07:00-13:00,bakery,,https://www.auflanbreton.be/,173925.4893288519,173954.31650124118,Tiensestraat
+536,50.8785662,4.70346,Leuven,11,3000,Tiensestraat,Barouche,Mo-Su 11:30-22:00,bar,restaurant,,173555.99499772978,174297.66531012952,Leuven-centrum
+537,50.8786424,4.7033984,Leuven,9,3000,Tiensestraat,Bavet,Mo-Su 11:30-22:00,bar,restaurant,https://www.bavet.eu/,173551.6214731351,174306.1222631978,Leuven-centrum
+538,50.8770804,4.7051904,Leuven,65,3000,Tiensestraat,T&Ko,,cafe,,https://www.tnko.be/,173678.526356919,174132.9355790792,Tiensestraat
+539,50.8779495,4.7035008,Leuven,38,3000,Tiensestraat,Madmum,Mo-Fr 08:00-17:30; Sa 08:30-18:00,cafe,,https://madmumcoffee.be/,173559.17629005955,174229.07621945255,Leuven-centrum
+540,50.8763146,4.7065434,Leuven,96,3000,Tiensestraat,Erasmus,,cafe,,,173774.1382300494,174048.18079079036,Tiensestraat
+541,50.8773765,4.7044768,Leuven,47,3000,Tiensestraat,T & Ko,,cafe,,https://www.tnko.be/,173628.15426500078,174165.64612750895,Tiensestraat
+542,50.8778464,4.7038551,Leuven,39a,3000,Tiensestraat,Sweet Coffee,,cafe,coffee_shop,,173584.1631780818,174217.72001639567,Tiensestraat
+543,50.877315,4.7042888,Leuven,60,3000,Tiensestraat,De Babyloniër,,fast_food,kebab,,173614.95396420907,174158.74490760826,Tiensestraat
+544,50.8771654,4.704549,Leuven,64,3000,Tiensestraat,Hawaiian Poke Bowl,,fast_food,,,173633.34204930684,174142.18627423048,Tiensestraat
+545,50.8770483,4.7052921,Leuven,69,3000,Tiensestraat,Panaché,,fast_food,sandwich_shop,http://www.panache-leuven.be,173685.70017641134,174129.3972591469,Tiensestraat
+546,50.8779248,4.7038117,Leuven,35,3000,Tiensestraat,Croque ‘n role,,fast_food,toast,https://www.croquenroll.be/,173581.0693209582,174226.42746472266,Tiensestraat
+547,50.877672,4.7037524,Leuven,50,3000,Tiensestraat,Oats,,fast_food,,,173577.0230158214,174198.2869837517,Tiensestraat
+548,50.8751609,4.7086532,Leuven,142,3000,Tiensestraat,Food Central,,food_court,,https://foodcentral.be/,173923.2161060386,173920.5216407776,Vesalius
+549,50.8760056,4.7077398,Leuven,113,3000,Tiensestraat,Sherpa Nachtwinkel,Mo-Su 18:00-23:00,grocery_shop,night_shop,,173858.49895450292,174014.19198490493,Tiensestraat
+550,50.8777288,4.7036364,Leuven,44,3000,Tiensestraat,t Galetje,,ice_cream,,,173568.83053311514,174204.56854697876,Tiensestraat
+551,50.8788093,4.7031177,Leuven,5,3000,Tiensestraat,Beerhop,,pub,,https://www.beerhop.be/,173531.78280799295,174324.59914340824,Leuven-centrum
+552,50.8770035,4.7054295,Leuven,73,3000,Tiensestraat,Lapaz,,pub,cafe,,173695.39297844438,174124.4576091254,Tiensestraat
+553,50.8771911,4.7048394,Leuven,55,3000,Tiensestraat,Politika Kaffee,,pub,bar,,173653.76727589764,174145.13780977763,Tiensestraat
+554,50.877233,4.7047442,Leuven,51,3000,Tiensestraat,Huis der Rechten,,pub,bar,,173647.0460227784,174149.76840504445,Tiensestraat
+555,50.8772753,4.7046644,Leuven,51,3000,Tiensestraat,Recup,,pub,bar,,173641.40842089284,174154.44841813575,Tiensestraat
+556,50.8772321,4.7044424,Leuven,62B,3000,Tiensestraat,Sikinoya,"Mo-Su 12:00-15:00, 18:00-23:00",restaurant,japanese;fusion,https://www.sikinoya.com/,173625.8059884387,174149.57202636637,Tiensestraat
+557,50.8770459,4.7047995,Leuven,68,3000,Tiensestraat,Al Parma,,restaurant,italian,https://www.restaurantalparma.be,173651.0323838788,174128.97295017913,Tiensestraat
+558,50.8777206,4.705553,Leuven,41,3000,Tiensestraat,t Academisch kwartier,Mo-Fr 10:00-14:00,restaurant,student,https://www.alma.be/en/t-academisch-kwartier,173703.72231767763,174204.26768983714,Ladeuze
+559,50.8785165,4.7031783,Leuven,12,3000,Tiensestraat,De Pasvite,,restaurant,sandwich_shop,http://www.depasvite.com,173536.19464651126,174292.04714478366,Leuven-centrum
+560,50.8785824,4.7030878,Leuven,10,3000,Tiensestraat,De Valck,,restaurant,seafood,http://www.devalck.be,173529.792414334,174299.34915942978,Leuven-centrum
+561,50.8787726,4.7032175,Leuven,7,3000,Tiensestraat,Wasbar,"PH,Mo-Su 09:00-21:00",restaurant,,https://www.wasbar.be/restaurants/wasbar-leuven-tiensestraat,173538.82485849885,174320.54831002094,Leuven-centrum
+562,50.8777002,4.7037009,Leuven,48,3000,Tiensestraat,Pasta Ruffo,,restaurant,italian,http://www.pastaporterleuven.be,173573.38433381834,174201.40758333728,Tiensestraat
+563,50.8780712,4.7037352,Leuven,29,3000,Tiensestraat,Soup Away,,restaurant,soup,https://www.soupaway.be/,173575.61176124468,174242.6887423871,Leuven-centrum
+564,50.8782696,4.7033479,Leuven,28,3000,Tiensestraat,Sushi Leuven,,restaurant,japanese,http://www.sushi-leuven.be/,173548.25467159195,174264.63572654687,Leuven-centrum
+565,50.8784523,4.7032381,Leuven,18,3000,Tiensestraat,Umamido Leuven,"Tu-Th,Su 12:00-21:30; Fr,Sa 12:00-22:00",restaurant,japanese,https://www.umamido.be/,173540.4354527067,174284.9244942665,Leuven-centrum
+566,50.8786302,4.7030223,Leuven,8,3000,Tiensestraat,Domus,"Tu-Th 11:00-14:30,17:30-22:30; Fr-Su 11:00-22:00",restaurant,belgian,https://www.domusleuven.be/,173525.1587133094,174304.64566366654,Leuven-centrum
+567,50.8784139,4.7032662,Leuven,20,3000,Tiensestraat,Spoons,,restaurant,,,173542.43234405413,174280.66178284958,Leuven-centrum
+568,50.8780351,4.7037566,Leuven,31,3000,Tiensestraat,Balls & Glory,,restaurant,regional,https://ballsnglory.be/,173577.1360068821,174238.67976646777,Leuven-centrum
+569,50.8779785,4.7037818,Leuven,33,3000,Tiensestraat,Otomat,"PH, Mo-Su 12:00-22:00",restaurant,pizza,https://otomat.be/nl/locations/leuven,173578.9380020402,174232.39156862348,Leuven-centrum
+570,50.8782207,4.7036552,Leuven,21,3000,Tiensestraat,Qbo,,restaurant,mexican,,173569.90635399442,174259.29375896975,Leuven-centrum
+571,50.8780499,4.7034514,Leuven,34,3000,Tiensestraat,Baracca,"Mo-Th 17:30-22:00; Fr-Su 12:00-14:30,17:30-22:00",restaurant,italian,https://www.baracca.be,173555.64915867464,174240.22906801756,Leuven-centrum
+572,50.876594,4.7060905,Leuven,82,3000,Tiensestraat,Wolfgang,,restaurant,,,173742.12131816917,174079.1161858067,Tiensestraat
+573,50.8764386,4.7063423,Leuven,92,3000,Tiensestraat,Nepal Delight,"Mo 11:30-14:00, 17:30-22:00; We-Su 11:30-14:00, 17:30-22:00",restaurant,indian;nepalese,https://www.nepaldelightleuven.be,173759.92182892933,174061.91011519358,Tiensestraat
+574,50.8750795,4.7083975,Leuven,138,3000,Tiensestraat,Het Strand,,restaurant,diner,https://hetstrand.xyz/,173905.26081796316,173911.38415429927,Vesalius
+575,50.8766942,4.7063439,Leuven,79,3000,Tiensestraat,Buddha House,"Tu-Su 12:00-14:30,17:00-22:00",restaurant,asian;thai,,173759.90490832512,174090.34369971137,Tiensestraat
+576,50.8788115,4.7031167,Leuven,5,3000,Tiensestraat,Uncle Puffy,,restaurant,japanese;sweets_shop,,173531.711326748,174324.84355516173,Leuven-centrum
+577,50.8757917,4.7083837,Leuven,121,3000,Tiensestraat,Fuji,"Mo-Su 11:30-14:00,17:00-22:00",restaurant,sushi,https://www.fuji-sushi.be/,173903.92644339235,173990.60515050218,Tiensestraat
+578,50.8783966,4.70357,Leuven,15,3000,Tiensestraat,Poule & Poulette,,restaurant,chicken,,173563.82174983938,174278.83388017025,Leuven-centrum
+579,50.8788292,4.7030677,Leuven,3,3000,Tiensestraat,Olleke Bolleke,Mo-Sa 10:00-18:00,sweets_shop,candy_store,https://www.ollekebolleke.eu/,173528.253971262,174326.79695484694,Leuven-centrum
+580,50.8820636,4.7138661,Leuven,8,3000,Tiensevest,Bultynck,,bakery,,,174286.5368048175,174690.0772472499,Leuven diestse straat
+581,50.8819607,4.7139744,Leuven,12,3000,Tiensevest,In Oud-Leuven,,cafe,brasserie,,174294.21142293958,174678.66608459037,Leuven diestse straat
+582,50.8817641,4.7142028,Leuven,20,3000,Tiensevest,De Nationale,,pub,,,174310.38638451864,174656.87107848935,Leuven diestse straat
+583,50.8816836,4.7142371,Leuven,22,3000,Tiensevest,In Den Ouden Tijd,,pub,,,174312.84190863988,174647.9274616642,Bondgenotenlaan
+584,50.8821296,4.7137967,Leuven,2,3000,Tiensevest,Pinky,,restaurant,sandwich_shop,,174281.61879939906,174697.39638726227,Leuven diestse straat
+585,50.8820184,4.7139137,Leuven,10,3000,Tiensevest,Carrefour Express,,supermarket,,,174289.9099339565,174685.0647714911,Leuven diestse straat
+586,50.8723355,4.7460925,Leuven,46,3010,Trolieberg,Lucullus,,ice_cream,,,176559.88219124544,173618.97438291274,Boven-lo
+587,50.8319635,4.7507526,Bierbeek,34-38,3360,Tussen de huizen Hoogstraat,De Witte Beek,,,,https://www.dewittebeek.be/,176911.03524655994,169129.69706170727,Meren
+588,50.9215817,4.6996375,Leuven,3,3018,Vaartdijk,Q Snack,,fast_food,sandwich_shop,,173265.6107354019,179081.55752779357,Wijgmaal-kern
+589,50.8877048,4.7001786,Leuven,4,3000,Vaartkom,Entrepot,,cafe,,https://www.cafeentrepot.be/,173320.51197920038,175313.2120564608,Leuven vaart
+590,50.8878393,4.7018895,Leuven,19,3000,Vaartkom,Noordoever,Mo-Sa 10:00-23:00,restaurant,diner,https://www.noordoever.be/,173440.8299311833,175328.71377291903,Leuven vaart
+591,50.8879498,4.7004665,Leuven,1A,3000,Vaartkom,HOP Gastrobar,,restaurant,,https://www.hopgastrobar.com/,173340.6476817447,175340.55671994668,Leuven vaart
+592,50.8808245,4.7019765,Leuven,9,3000,Vaartstraat,Bistro Tribunal,,restaurant,french;bistro,https://www.bistrotribunal.be/,173450.46052779444,174548.40949360188,Leuven-centrum
+593,50.8825625,4.7116236,Leuven,12,3000,Vanden Tymplestraat,The Footloose,,pub,,,174128.4706481376,174744.84268603008,Van monsstraat
+594,50.8811903,4.699721,Leuven,2,3000,Vismarkt,Zuut,We-Sa 09:00-17:00,bakery,patisserie,,173291.55025779875,174588.3899812186,Lei - vismarkt
+595,50.8814198,4.7001089,Leuven,7,3000,Vismarkt,De Optimist,,cafe,restaurant,,173318.7339564372,174614.04171445314,Lei - vismarkt
+596,50.8800065,4.7056646,Leuven,16,3000,Vital Decosterstraat,Stuffed,,fast_food,,https://stuffed-leuven.be,173710.4204796395,174458.5882274732,Bondgenotenlaan
+597,50.9163156,4.6787171,Herent,71,3020,Vloerstraat,De Vloer,,cafe,,,171797.08597988807,178489.38462471124,Langeveld
+598,50.8809064,4.6990683,Leuven,5,3000,Wandelingenstraat,Surlie,,bar,wine_bar,https://surlie-natuurwijnen.be/,173245.7582878179,174556.60379709676,Lei - vismarkt
+599,50.8810268,4.69912,Leuven,2A,3000,Wandelingenstraat,Cuore Italiano,,cafe,,,173249.33690519695,174570.0133954538,Lei - vismarkt
+600,50.8811252,4.6990497,Leuven,2A,3000,Wandelingenstraat,Young Amadeus House of Taste,,cafe,,http://www.youngamadeus.be,173244.34084423326,174580.93742548488,Lei - vismarkt
+601,50.8809362,4.6985733,Leuven,10,3000,Wandelingenstraat,Bar Jérôme,We-Fr 11:00-18:00; Sa 10:00-18:00,cafe,bar,,173210.90846678056,174559.76360484213,Lei - vismarkt
+602,50.8809624,4.6986692,Leuven,10C,3000,Wandelingenstraat,Convento Food,,food_court,caterer,,173217.64434078996,174562.70815400686,Lei - vismarkt
+603,50.8809819,4.6987289,Leuven,8,3000,Wandelingenstraat,La Stanza,We-Sa 11:00-01:00,restaurant,italian,http://www.lastanza.be,173221.83599643887,174564.89605438896,Lei - vismarkt
+604,50.8980286,4.6420933,Herent,6A,3020,Warotstraat,t Warot,,bakery,,,169229.17173869445,176444.96506934334,Winksele-centrum
+605,50.8979055,4.6423943,Winksele,4,3020,Warotstraat,De Smederij,,restaurant,diner,,169250.3972078071,176431.34941437095,Winksele-centrum
+606,50.8318326,4.7476253,Bierbeek,1,3360,Waterstraat,Moemmedel,We-Mo 11:00-22:00,restaurant,brasserie,,176690.8008786223,169114.00513925124,Meren
+607,50.8270575,4.6557696,Oud-Heverlee,139,3050,Waversebaan,L'Is 'T Waar?,,cafe,,,170221.86599878463,168553.75189682934,Linderonde - oppem
+608,50.8658087,4.6958813,Leuven,2,3001,Waversebaan,Canadian Munchies,,fast_food,burger,,173028.8910881963,172876.13364921603,Heverlee-centrum
+609,50.8438223,4.6697144,Oud-Heverlee,72,3050,Waversebaan,Genenhoek,,pub,cafe,,171196.76680847097,170422.5578915598,Winkelveld - eikenveld
+610,50.8232076,4.6525933,Oud-Heverlee,266,3050,Waversebaan,Pitou,,restaurant,,,169999.72162072617,168124.62968379445,Linderonde - oppem
+611,50.8435774,4.6696743,Oud-Heverlee,74,3050,Waversebaan,Il Danio,,restaurant,italian,,171194.05323548615,170395.30381565075,Oud-heverlee-kern
+612,50.8327223,4.6612292,Oud-Heverlee,99,3050,Waversebaan,Villa San Martino,,restaurant,,,170604.03269128173,169185.40494641662,Linderonde - oppem
+613,50.9256912,4.7111838,Wilsele,152,3012,Weggevoerdenstraat,Bistro Mariette,"Mo 11:45-15:00,18:00-21:00; Th-Su 12:00-15:00,18:00-21:00",restaurant,,https://www.bistromariette.be/,174075.3522404151,179542.39481937513,Nieuwe steenweg
+614,50.8707158,4.634369,Bertem,25,3000,Weygenstraat,xocolata,"Tu-Fr 13:00-21:00; Sa,Su 10:00-21:00",bakery,patisserie,https://www.xocolata.be/,168696.67529058867,173404.6797508793,Bertem centrum-oost
+615,50.8661662,4.6317969,Bertem,4,3060,Weygenstraat,t Volkhuis,"We,Th,Su,Mo 14:00-23:00; Fr,Sa 14:00-18:00+",cafe,,,168517.42420961923,172897.9329479076,Bertem centrum-oost
+616,50.8675504,4.6332519,Bertem,10A,3060,Weygenstraat,Prik & Tik Bertem,,grocery_shop,liquor_shop,,168619.30080002843,173052.2770157773,Bertem centrum-oost
+617,50.8792721,4.6981474,Leuven,14,3000,Wieringstraat,Bistro Lust,,restaurant,french;brasserie,https://www.bistrolust.be/,173181.75912927507,174374.5146922907,Leuven-centrum
+618,50.9235418,4.692376,Herent,295,3020,Wijgmaalsesteenweg,Pizza Roma,,fast_food,kebab,,172754.08097867595,179297.34825369995,Keulenstraat
+619,50.9235574,4.6920463,Herent,300,3020,Wijgmaalsesteenweg,Frituur 'De Brug',,fast_food,friture,https://www.resto-debrug.be/index.php/frituur,172730.8921923229,179298.9824389033,Keulenstraat
+620,50.9236086,4.6920519,Herent,300,3020,Wijgmaalsesteenweg,De Brug,,restaurant,regional,https://www.resto-debrug.be/index.php/restaurant,172731.26107778645,179304.6797538912,Keulenstraat
+621,50.827448,4.7530299,Bierbeek,,3360,Wijnenberg,Bistro De Borre,,pub,,,177074.0681855876,168628.22796139866,Meren
+622,50.9047861,4.7215045,Kessel-Lo,259,3010,Wilselsesteenweg,Brood & Banket,Tu-Fr 07:00-17:00; Sa 07:00-13:00,bakery,,,174812.03555831505,177220.28029465582,Beneden kessel
+623,50.905372,4.6816643,Herent,93,3020,Wilselsesteenweg,La Bottega Italiana,"Mo-Tu 18:00-22:00,We-Fr 12:00-14:30,18:00-22:00; Sa 18:00-22:00; Su 12:00-14:30, 18:00-22:00",restaurant,italian,https://labottegaherent.weebly.com,172009.47700941502,177272.8702963218,Kliniek
+624,50.9070422,4.7181666,Kessel-Lo,321,3010,Wilselsesteenweg,World Kitchen,"Tu-Sa 18:00-22:00; Su,PH 17:00-22:00",restaurant,indian,https://worldkitchen.be/,174576.07104668004,177470.13971341308,Barreel
+625,50.9401177,4.7496053,Rotselaar,20,3110,Wingepark,Java,,cafe,,,176768.39262229623,181160.40901153628,Wingepark
+626,50.8921849,4.7684744,Lubbeek,57,3210,Wolvendreef,Brood & Banket Timmermans,,bakery,,,178123.35789540142,175835.28359132446,Linden-centrum
+627,50.8782126,4.7002216,Leuven,1,3000,Zeelstraat,Snooker & Pool Chaos,Mo-Sa 15:00-26:00; Su 15:00-00:00,pub,,https://www.chaosleuven.be/,173328.26088983926,174257.30619157478,Leuven-centrum
+628,50.8783109,4.7004245,Leuven,4,3000,Zeelstraat,PortoGalo,,restaurant,italian;portoguese,http://www.restaurantportogalo.be,173342.49162248822,174268.3050363185,Leuven-centrum
+629,50.8729833,4.6961038,Leuven,18,3000,Zwartzustersstraat,t Eethoekje,,fast_food,sandwich_shop,,173041.02854052003,173674.3077639211,Redingen
+630,50.8729619,4.6965866,Leuven,16,3000,Zwartzustersstraat,De Biotoop,Mo-Fr 09:00-18:30; Sa 09:00-18:00,grocery_shop,organic_shop,,173075.02131343956,173672.07745133992,Damiaanplein
+631,50.8730532,4.6965601,Leuven,16,3000,Zwartzustersstraat,De Dijlemolens,,restaurant,,,173073.11116073237,173682.22545279935,Damiaanplein
